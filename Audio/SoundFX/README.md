@@ -1,10 +1,10 @@
+Thematic Impact
+
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBoom_CINEMATIC HIT-BOOM Black Box_B00M_CTDS.wav"
+
 Ground Impact
 
 D:\BoomAudio\Cinematic Impacts - Designed
-
-Stun Kick
-
-
 
 Chain drag
 
@@ -45,6 +45,11 @@ Gothic Foe - Combat
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_LEAD IN-Ventilation Hose Mangled_B00M_CICK.wav"
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_LEAD IN-Video Tape Texture_B00M_CICK.wav"
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Sizzle Out Whooshed_B00M_CICK.wav" (Ground & Pound!)
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-SLAM Drop It Hot_B00M_CTDS.wav" (Miss, Ground Hit)
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-SLAM Heavens Door_B00M_CTDS.wav"
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-SOFT Docked_B00M_CTDS.wav"
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-SOFT Lead Balloon_B00M_CTDS.wav"
+
 
 Gothic Foe - Death Rattle
 
@@ -113,6 +118,8 @@ Dragon - Combat
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_IMPACT-Hard Transient Thump Flutter Short_B00M_CICK.wav"
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_IMPACT-Hard Transient Thump Flutter_B00M_CICK.wav"
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_SUSTAIN-Metal Noise Glide_B00M_CICK.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT SOFT-Distant Breath_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-SLAM No Entry_B00M_CTDS.wav" (Gears Engage Clang)
 
 
 Vanish into tunnel cave
@@ -211,6 +218,49 @@ Hebron - Combat
 
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSrce_SUSTAIN-Metal Impact Distorted Filter Smear_B00M_CICK.wav"
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_SUSTAIN-Noisy Whoosh Scrape_B00M_CICK.wav" (Demolish Obstacle)
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT AGGRESSIVE-Razor Edge_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT SOFT-Iron Fist_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Head Bang_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Iron Dome_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Jailbreak_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Open Up_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Shutter Flash_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Steel Collapse_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Casual Violence_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Cosmic Dust_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Crumbler_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Dark Clouds_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Delicate Destruction_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Galvanized Spank_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Rage_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT SOFT-Blurred Lines_B00M_CIDS.wav" (Kick)
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT SOFT-Breeze By_B00M_CIDS.wav" (Strike)
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT SOFT-Clash_B00M_CIDS.wav" (Strike)
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT SOFT-Locker Room_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT SOFT-Shadow_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Behind Closed Doors_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-In Isolation_B00M_CIDS.wav" (Sword in the Ground - Victory)
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Platinum_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Poltergeist Activity_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Snare Fill_B00M_CIDS.wav" (Weapon Lost it lands)
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Vortex_B00M_CIDS.wav"
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNBoom_BASS DROP-Deep Shock_B00M_CIDS.wav" (Kick stun)
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Sweet Spot_B00M_CIDS.wav" (Gunshot Dodge)
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBoom_CINEMATIC HIT-BOOM Judgement_B00M_CTDS.wav"
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBoom_CINEMATIC HIT-BOOM Seize The Day_B00M_CTDS.wav" (Bell Impact Foe)
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBoom_CINEMATIC HIT-BOOM Last Hour_B00M_CTDS.wav" (Bell Lands)
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBoom_CINEMATIC HIT-BOOM Train Wreck_B00M_CTDS.wav" (New Foe Door)
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_AGGRESSIVE-Eat This_B00M_CTDS.wav" (Hebron, Look Upon Me)
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_AGGRESSIVE-In Your Face_B00M_CTDS.wav" (Hebron, Look Upon Me (cont'd))
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_AGGRESSIVE-Titans Grip_B00M_CTDS.wav" (Hebron, Am I Not Lethal?)
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_AGGRESSIVE-Wave Of Destruction_B00M_CTDS.wav" (Hebron, Am I Not Lethal?)
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_SOFT-Call For War_B00M_CTDS.wav" (Fleeing)
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_SOFT-Earth Shaker_B00M_CTDS.wav" (Enemy Revive)
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_SOFT-Mean Machine_B00M_CTDS.wav" (Revived Enemy Regard)
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-AGGRESSIVE Excalibur_B00M_CTDS.wav"
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-AGGRESSIVE Get Over Here_B00M_CTDS.wav" (Rotary Gears Clank)
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-AGGRESSIVE Iron Curtain_B00M_CTDS.wav"
+
 
 Turning Point in Combat
 
@@ -224,4 +274,15 @@ Fizzle w/ Sparks
 
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_SUSTAIN-Noise Down_B00M_CICK.wav"
 
-(File 259)
+Vault Shut Slam
+
+"D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Eclipse_B00M_CIDS.wav"
+
+Gates of Hell Shut
+
+"D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBoom_CINEMATIC HIT-BOOM Last Call_B00M_CTDS.wav"
+
+Bookmark
+
+(Cinematic Impacts - Construction Kit - File 259)
+(Cinematic Metal - Titan - Designed - File 43)
