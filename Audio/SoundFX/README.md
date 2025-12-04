@@ -9,6 +9,7 @@ Stun Kick
 Chain drag
 
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_LEAD IN-Metal Scrape_B00M_CICK.wav"
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_SUSTAIN-Modulated Saw White Noise Blend Wobble Particles_B00M_CICK.wav"
 
 Foundation crumble
 
@@ -28,11 +29,12 @@ Foundation crumble
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Gritty Movement Drum_B00M_CICK.wav"
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Sizzle Low Explosive_B00M_CICK.wav"
 
-Gothik Beast - Grunt
+Gothic Foe - Grunt
 
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_LEAD IN-Granular Ventilation Hose Rub_B00M_CICK.wav"
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_SUSTAIN-Fluttering White Noise Sine Blend_B00M_CICK.wav" (Satisfied)
 
-Gothic Beast - Combat
+Gothic Foe - Combat
 
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNImpt_TAIL-Filtered Zap_B00M_CICK.wav"
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_LEAD IN-Phase Explosion_B00M_CICK.wav"
@@ -44,13 +46,18 @@ Gothic Beast - Combat
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_LEAD IN-Video Tape Texture_B00M_CICK.wav"
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Sizzle Out Whooshed_B00M_CICK.wav" (Ground & Pound!)
 
-Gothic Beast - Death
+Gothic Foe - Death Rattle
 
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_IMPACT-Tonal Phasing_B00M_CICK.wav"
 
-Gothik Beast - Victorious
+Gothic Foe - Victorious
 
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_LEAD IN-Modulated Phasing_B00M_CICK.wav"
+
+Spell
+
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Smooth Flanger White Noise Movement_B00M_CICK.wav"
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_IMPACT-Thump Noise High Hit_B00M_CICK.wav"
 
 Spell - Vaporize Out
 
@@ -59,6 +66,7 @@ Spell - Vaporize Out
 Spell - Conjure
 
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Ghostly Horror Tone_B00M_CICK.wav"
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_IMPACT-Noise Punch Down_B00M_CICK.wav"
 
 Combat Carousel - End of Sequence - Loss (pre cinematic)
 
@@ -99,6 +107,13 @@ Dragon - Combat
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Low Movement Sizzle_B00M_CICK.wav"
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Low Moving Bandpass Phaser_B00M_CICK.wav" (Surprise/Regard!)
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Noise Tone_B00M_CICK.wav"
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSrce_SUSTAIN-Rock Crumble Texture_B00M_CICK.wav"
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSrce_SUSTAIN-Rock Impact Texture_B00M_CICK.wav"
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_IMPACT-Hard Transient Thump Filtered_B00M_CICK.wav"
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_IMPACT-Hard Transient Thump Flutter Short_B00M_CICK.wav"
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_IMPACT-Hard Transient Thump Flutter_B00M_CICK.wav"
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_SUSTAIN-Metal Noise Glide_B00M_CICK.wav"
+
 
 Vanish into tunnel cave
 
@@ -119,6 +134,7 @@ Rolling Fire Cart Door RAM
 Close Range Sniper
 
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Distorted Thunder Hit_B00M_CICK.wav"
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Wind Blow_B00M_CICK.wav"
 
 Mechanized Foe - Combat
 
@@ -147,3 +163,65 @@ Youth on the Field! (Friend or Foe - Hug or Kick/Dodge)
 Arrow - Big Miss!
 
 "D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Sizzle Out Whooshed_B00M_CICK.wav"
+
+Lightning Strike
+
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Slash Phasy Mid_B00M_CICK.wav"
+
+Ground Flare - 1
+
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Slash Phasy_B00M_CICK.wav"
+
+Cavern - Distant Gunshot
+
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Washed Out Slam_B00M_CICK.wav"
+
+Pile Crumble
+
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-White Noise Crackle Movement_B00M_CICK.wav"
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_SUSTAIN-Crunchy Move Noise_B00M_CICK.wav"
+
+PAUSE / UNPAUSE
+
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Wind Basic_B00M_CICK.wav"
+
+Super Rotary Canon (Low)
+
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_SUSTAIN-Crushed Modulated Saw Wobble Particles_B00M_CICK.wav"
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_SUSTAIN-Gritty Motion Dirty_B00M_CICK.wav"
+
+Super Rotary Gun (Mid)
+
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_SUSTAIN-Hard Saw White Noise Crumble_B00M_CICK.wav"
+
+Super Rotary Gun (Single Fire)
+
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Wind Blow Mid Thin_B00M_CICK.wav"
+
+Super Rotary Gun 2 (Single Fire)
+
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Wind Blow_B00M_CICK.wav"
+
+Collapsing Water Barrels
+
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Wind Gust Noisey Static_B00M_CICK.wav"
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Wind Movement Tonal_B00M_CICK.wav"
+
+Hebron - Combat
+
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSrce_SUSTAIN-Metal Impact Distorted Filter Smear_B00M_CICK.wav"
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_SUSTAIN-Noisy Whoosh Scrape_B00M_CICK.wav" (Demolish Obstacle)
+
+Turning Point in Combat
+
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSrce_SUSTAIN-Resonant Tonal_Bass_B00M_CICK.wav"
+
+Impact Fizzle
+
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_IMPACT-Thump Gritty_B00M_CICK.wav"
+
+Fizzle w/ Sparks
+
+"D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_SUSTAIN-Noise Down_B00M_CICK.wav"
+
+(File 259)
