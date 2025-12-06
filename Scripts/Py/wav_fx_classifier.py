@@ -10,7 +10,8 @@ from tqdm import tqdm
 # ---------- CONFIG ----------
 
 AUDIO_DIR = r"D:\BoomAudio"
-OUTPUT_CSV = r"D:\sound_tags.csv"
+INPUT_CSV = r"D:\crc_undex.txt"
+OUTPUT_CSV = r"D:\crc_audio_rankings.txt"
 
 TOP_K = 3  # number of labels per sound
 
@@ -140,11 +141,16 @@ def classify_audio(path: Path, top_k: int = 3):
         return results
 
 
-def iter_wavs(root: Path):
-    for dirpath, _, filenames in os.walk(root):
-        for fn in filenames:
-            if fn.lower().endswith((".wav", ".flac", ".ogg")):
-                yield Path(dirpath) / fn
+def iter_wavs(root: Path, recursive: bool = False):
+    if recursive:
+        for dirpath, _, filenames in os.walk(root):
+            for fn in filenames:
+                if fn.lower().endswith((".wav", ".flac", ".ogg")):
+                    yield Path(dirpath) / fn
+    else:
+        for fn in root.iterdir():
+            if fn.is_file() and fn.suffix.lower() in (".wav", ".flac", ".ogg"):
+                yield fn
 
 def main():
     
@@ -157,7 +163,7 @@ def main():
     rows = []
 
     # Progress feedback for large libraries:
-    for audio_path in tqdm(list(iter_wavs(root)), desc="Classifying"):
+    for audio_path in tqdm(list(iter_wavs(root), recursive=True), desc="Classifying"):
   # for audio_path in iter_wavs(root):
         rel = audio_path.relative_to(root)
         # Remove print, or use tqdm.write() for errors only
