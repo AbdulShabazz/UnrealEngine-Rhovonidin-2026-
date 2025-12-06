@@ -1,17 +1,21 @@
 import os
+os.environ["TORCHAUDIO_USE_BACKEND_DISPATCHER"] = "1"
+
 import csv
 from pathlib import Path
 
 import torch
 import torchaudio
+import soundfile as sf
 from transformers import AutoProcessor, ClapModel
 from tqdm import tqdm
+from collections import defaultdict
 
 # ---------- CONFIG ----------
 
 AUDIO_DIR = r"D:\BoomAudio"
-INPUT_CSV = r"D:\crc_undex.txt"
-OUTPUT_CSV = r"D:\crc_audio_rankings.txt"
+INPUT_TXT = r"D:\crc_undex.txt"
+OUTPUT_TXT = r"D:\crc_audio_rankings.txt"
 
 TOP_K = 3  # number of labels per sound
 
@@ -84,6 +88,8 @@ GLADIATOR_LABELS = load_labels_from_crc("crc_index.txt") or {
 
 # ---------- MODEL LOAD ----------
 
+# torchaudio.set_audio_backend("soundfile")
+
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 print("Loading CLAP model...")
@@ -106,7 +112,13 @@ with torch.no_grad():
 
 
 def classify_audio(path: Path, top_k: int = 3):
-    waveform, sr = torchaudio.load(str(path))
+    # waveform, sr = torchaudio.load(str(path))
+
+    audio_array, sr = sf.read(str(path))  # returns numpy array
+    waveform = torch.from_numpy(audio_array.T).float()  # [channels, samples]
+
+    if waveform.dim() == 1:
+        waveform = waveform.unsqueeze(0)
 
     # CLAP expects 48 kHz by default; resample if needed.:contentReference[oaicite:3]{index=3}
     if sr != target_sr:
@@ -163,9 +175,13 @@ def main():
     rows = []
 
     # Progress feedback for large libraries:
-    for audio_path in tqdm(list(iter_wavs(root), recursive=True), desc="Classifying"):
-  # for audio_path in iter_wavs(root):
+    # for audio_path in tqdm(list(iter_wavs(root, recursive=True)), desc="Classifying"):
+    pbar = tqdm(list(iter_wavs(root, recursive=True)), desc="Classifying")  # patch updates screen stacking
+    for audio_path in pbar:
         rel = audio_path.relative_to(root)
+        pbar.set_description(f"{str(rel)[-50:]}")  # updates in place
+  # for audio_path in iter_wavs(root):
+        # rel = audio_path.relative_to(root)
         # Remove print, or use tqdm.write() for errors only
         # print(f"Processing {rel}...")
         try:
@@ -187,12 +203,20 @@ def main():
     for i in range(1, TOP_K + 1):
         fieldnames += [f"tag_{i}", f"score_{i}"]
 
-    with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(rows)
+    # Group files by top tag
+    categorized = defaultdict(list)
+    for row in rows:
+        top_tag = row["tag_1"]
+        categorized[top_tag].append(row["relative_path"])
 
-    print(f"Wrote {len(rows)} rows to {OUTPUT_CSV}")   
+    with open(OUTPUT_TXT, "w", encoding="utf-8") as f:
+        for category in sorted(categorized.keys()):
+            f.write(f"[{category}]\n")
+            for path in sorted(categorized[category]):
+                f.write(f"  {path}\n")
+            f.write("\n")
+
+    print(f"Wrote {len(rows)} rows to {OUTPUT_TXT}")   
 
 if __name__ == "__main__":
     main()
