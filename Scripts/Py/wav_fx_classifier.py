@@ -1,7 +1,4 @@
 import os
-#os.environ["TORCHAUDIO_USE_BACKEND_DISPATCHER"] = "1"
-
-#import csv
 from pathlib import Path
 
 import torch
@@ -14,7 +11,7 @@ from collections import defaultdict
 # ---------- CONFIG ----------
 
 AUDIO_DIR = r"D:\BoomAudio"
-INPUT_TXT = r"D:\crc_undex.txt"
+INPUT_TXT = r"D:\crc_index.txt"
 OUTPUT_TXT = r"D:\crc_audio_rankings.txt"
 
 TOP_K = 3  # number of labels per sound
@@ -41,7 +38,7 @@ def load_labels_from_crc(filepath: str = "crc_index.txt") -> dict[str, str]:
     
     return labels
 
-GLADIATOR_LABELS = load_labels_from_crc("crc_index.txt") or {
+GLADIATOR_LABELS = load_labels_from_crc(INPUT_TXT) or {
     "melee_sword_slash_light":
         "short metal sword slash, close combat, gladius cutting air or light armor, dry, close mic",
     "melee_sword_slash_heavy":
@@ -92,6 +89,7 @@ GLADIATOR_LABELS = load_labels_from_crc("crc_index.txt") or {
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
+os.system('cls')
 print("Loading CLAP model...")
 
 target_sr = 48000   # CLAP expects 48kHz
