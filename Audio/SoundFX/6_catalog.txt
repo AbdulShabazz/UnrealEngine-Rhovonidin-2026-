@@ -1,0 +1,967 @@
+[arena_theme]
+  Guns - Construction Kit\GUNAuto_AR-AK47 V2 Burst 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNAuto_AR-AK47 V2 Burst 30m_B00M_GUCK_XY.wav
+  Guns - Designed\GUNAuto_M4 V1 4x Bursts natural_B00M_GUDS.wav
+
+[block___parry]
+  Guns - Construction Kit\GUNPis_PI-Beretta M9 Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-Colt 1911 Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP40 Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-Ruger 1022 Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-Ruger 1022 Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-S&W Model 66 Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-S&W Model 66 Single Shot 02 50m_B00M_GUCK_Mono.wav
+
+[blood_splatter___gore_impact]
+  Guns - Construction Kit\GUNPis_PI-Beretta M9 Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-Ruger 1022 Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SMG-GSG5 Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SMG-GSG5 Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SMG-GSG5 Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Designed\GUNPis_Ruger 1022 4x SingleShots bright_B00M_GUDS.wav
+  Guns - Designed\GUNPis_Ruger 1022 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNPis_Ruger 1022 4x SingleShots natural_B00M_GUDS.wav
+  Guns - Designed\GUNRif_GSG5 4x SingleShots natural_B00M_GUDS.wav
+
+[buff___debuff_aura]
+  Urban Europe - Surround\AMBCnst_Downtown Construction Site Calm Netherlands_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBMisc_Industrial Electrical Power Line Night Germany V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBMisc_Industrial Electrical Power Line Night Germany V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBTran_Trans Train Station Platforms England_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTran_Trans Train Station Platforms England_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Car Park Traffic Calm Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Hospital Ventilation Hum Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Hospital Ventilation Hum Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Market Place Calm France_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Financial District Hum Traffic England V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Financial District Street Corner Busy Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Park Morning England V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Street Traffic Night England_B00M_3DS05_4.0 Hi.wav
+
+[cave___dungeon_drip]
+  Urban Europe - Surround\AMBUrbn_Downtown Cathedral Square Fountain People England_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Side Street Hum Busy Netherlands_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Square People Germany V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Riverside People Tourist Boats Belgium_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Student District Side Street Restaurant France_B00M_3DS05_4.0 Lo.wav
+
+[chest___container_open]
+  Urban Europe - Surround\AMBCnst_Downtown Construction Site Calm Netherlands_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBTraf_Bus Station Traffic Seagull Calm England_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Park Ducks Birds England V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Park Ducks Birds England V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Park Ducks Birds England V2_B00M_3DS05_4.0 Lo.wav
+
+[city___marketplace_ambient]
+  Urban Europe - Surround\AMBMrkt_Market Square People Belgium_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Large Square Fountains Spain_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Main Square People Netherlands V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Square Fountain People Traffic Belgium V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Square Fountain People Traffic Belgium V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Traffic Square People England_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Park Morning England V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Riverside People Tourist Boats Belgium_B00M_3DS05_4.0 Lo.wav
+
+[coliseum_ambient]
+  Urban Europe - Surround\AMBCele_Downtown Main Square Night Belgium V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBMrkt_Downtown Market Square Restaurant Germany V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTraf_Bus Station Traffic Seagull Busy England_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTran_Trans Train Station Hum Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTran_Trans Train Station Main Hall Hum Passengers Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTran_Trans Train Station Main Hall Hum Passengers Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBTran_Trans Train Station Outside People Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Car Park Birds Germany V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Car Park Traffic Calm Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Cathedral Square Fountain People England_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Large Square Moderate Belgium_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Large Square People Busy France_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Large Square People Busy France_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Main Street Traffic England_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Market Place Calm France_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Riverside Terrace Restaurant Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Shopping Alley People Spain_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Shopping Street Trams Italy_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Side Street Hum Calm Netherlands_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Side Street Hum People England_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Side Street Hum People England_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Side Street Night Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Small Square Restaurants Night Belgium V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Small Square Restaurants Night Belgium V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Square Cafe People Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Square People Germany V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Square Restaurants Spain_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Square Restaurants Spain_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Street Traffic Belgium V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Street Traffic Trams Busy Belgium_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Street Traffic Trams Calm Belgium_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Street Traffic Trams Calm Belgium_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Financial District Night Busy France_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Financial District Night Quiet France_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Financial District Night Quiet France_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Harbor Backside Calm France_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Old Town Observation Deck Civil Defense Siren Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Old Town Observation Deck Civil Defense Siren Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Old Town Observation Deck Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Residential Area Street Traffic England_B00M_3DS05_4.0 Lo.wav
+
+[coliseum_crowd_murmur]
+  Urban Europe - Surround\AMBAmus_Downtown Square Fairground Night Italy_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBAmus_Downtown Square Fairground Night Italy_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBCele_Downtown Main Square Night Belgium V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBCele_Downtown Main Square Night Belgium V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBCele_Downtown Main Square Night Belgium V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBMrkt_Downtown Cathedral Square Market Germany V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBMrkt_Downtown Cathedral Square Market Germany V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBMrkt_Downtown Cathedral Square Market Germany V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBMrkt_Downtown Cathedral Square Market Germany V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBMrkt_Downtown Market Square Restaurant Germany V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBMrkt_Downtown Market Square Restaurant Germany V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBMrkt_Downtown Market Square Restaurant Germany V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBMrkt_Downtown Square Market Stall Build Up Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBMrkt_Downtown Square Market Stall Build Up Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBTran_Trans Metro Ticketing France_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTran_Trans Metro Ticketing France_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBTran_Trans Train Station Passenger Area England_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTran_Trans Train Station Passenger Area England_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Car Park Birds Germany V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Car Park Birds Germany V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Cathedral Square Cafe Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Cathedral Square Cafe Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Large City Hall Square Germany V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Large City Hall Square Germany V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Large City Hall Square Germany V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Large City Hall Square Germany V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Main Square People Netherlands V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Main Square People Netherlands V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Main Square People Netherlands V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Main Square People Netherlands V3_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Main Square People Netherlands V3_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Main Street Traffic England_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Observation Wheel Busy People England_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Observation Wheel Busy People England_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Park People France_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Park People France_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Pedestrian Zone Rain Spain_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Pedestrian Zone Rain Spain_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Power Box Hum Germany V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Power Box Hum Germany V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Riverside Promenade Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Riverside Promenade Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Riverside Terrace Restaurant Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Shopping Alley People Spain_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Shopping Street Trams Italy_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Side Street Hum Busy Netherlands_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Side Street Hum Calm Netherlands_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Small Square Restaurants Night Belgium V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Small Square Restaurants Night Belgium V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Square Cafe People Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Square People Germany V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Square Restaurant People England_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Square Restaurant People England_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Financial District Night Busy France_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Old Town District Neighborhood France V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Old Town Observation Deck Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Student District Side Street Restaurant France_B00M_3DS05_4.0 Hi.wav
+
+[critical_hit]
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Shot Sequence 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Shot Sequence 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Shot Sequence 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Shot Sequence 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Shot Sequence 02 3m_B00M_GUCK_AB.wav
+
+[defeat___game_over]
+  Urban Europe - Surround\AMBUrbn_Downtown Backyard Hum Calm England V1_B00M_3DS05_4.0 Lo.wav
+
+[dragon_fire_breath]
+  Guns - Construction Kit\GUNPis_PI-S&W Model 66 Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-S&W Model 66 Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Urban Europe - Surround\AMBTran_Trans Planes Takeoff Close Germany V1_B00M_3DS05_4.0 Hi.wav
+
+[dragon_wing_flap]
+  Guns - Construction Kit\GUNAuto_AR-AK47 V1 Burst 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNAuto_AR-AK47 V1 Double Tap 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V1 Double Tap 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V2 Double Tap 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V1 Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V1 Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Shot Sequence 130m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V1 Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Shot Sequence 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Shot Sequence 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Shot Sequence 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Shot Sequence 150m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V2 Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V2 Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Shot Sequence 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Shot Sequence 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Shot Sequence 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Shot Sequence 02 50m_B00M_GUCK_Mono.wav
+  Guns - Designed\GUNPis_FNH FNP40 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNShotg_Maverick88FM 4x SingleShots light_B00M_GUDS.wav
+  Urban Europe - Surround\AMBTran_Trans Planes Takeoff Close Germany V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Side Street Night Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Trans Train Station Car Park Germany V2_B00M_3DS05_4.0 Lo.wav
+
+[dungeon___underground_ambient]
+  Guns - Construction Kit\GUNPis_PI-Ruger 1022 Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SMG-GSG5 Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Urban Europe - Surround\AMBTran_Trans Train Station Outside People Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Park Calm France_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Park Calm France_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Traffic Square Fountain France_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Traffic Square Fountain France_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Residential Area Close Industrial Harbor Germany_B00M_3DS05_4.0 Hi.wav
+
+[error_invalid_action]
+  Guns - Construction Kit\GUNAuto_AR-AK47 V2 Burst 2m_B00M_GUCK_AB.wav
+
+[exploration_theme]
+  Guns - Construction Kit\GUNRif_AR-AK47 V1 Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 FM Single Shot 02 30m_B00M_GUCK_XY.wav
+
+[finisher_move]
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Shot Sequence 02 3m_B00M_GUCK_AB.wav
+
+[fire_crackle]
+  Guns - Construction Kit\GUNMech_Foley-Ithaca M37 Handling 13m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Mosin Nagant Loading 3m_B00M_GUCK_AB.wav
+  Guns - Designed\GUNMech_MosinNagant Handling_B00M_GUDS.wav
+
+[footsteps_(generic)]
+  Guns - Construction Kit\GUNAuto_AR-AK47 V1 Burst 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNAuto_AR-AK47 V2 Burst 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V1 Burst 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V2 Burst 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V2 Burst 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V1 Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V1 Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V1 Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Shot Sequence 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Designed\GUNAuto_AK47 V1 4x Bursts light_B00M_GUDS.wav
+  Guns - Designed\GUNAuto_M4 V2 4x Bursts crispy_B00M_GUDS.wav
+  Guns - Designed\GUNAuto_M4 V2 4x Bursts light_B00M_GUDS.wav
+  Guns - Designed\GUNAuto_M4 V2 4x Bursts natural_B00M_GUDS.wav
+  Guns - Designed\GUNRif_M4 V2 4x SingleShots natural_B00M_GUDS.wav
+
+[forest___wilderness_ambient]
+  Urban Europe - Surround\AMBUrbn_Park Morning England V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Residential Area Close Fountains England_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Residential Area Close Fountains England_B00M_3DS05_4.0 Lo.wav
+
+[general_cancel]
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Single Shot 02 30m_B00M_GUCK_XY.wav
+
+[horse_ride]
+  Guns - Designed\GUNMech_Dragunov PSL Handling_B00M_GUDS.wav
+  Guns - Designed\GUNMech_Ithaca M37 Handling_B00M_GUDS.wav
+  Urban Europe - Surround\AMBTraf_Downtown Traffic Island Birds Spain_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Rooftop Traffic Italy_B00M_3DS05_4.0 Lo.wav
+
+[inventory_item_pick_up]
+  Guns - Construction Kit\GUNPis_PI-Beretta M9 Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-Beretta M9 Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-Ruger 1022 Single Shot 01 30m_B00M_GUCK_XY.wav
+
+[inventory_slot_select]
+  Guns - Construction Kit\GUNMech_Foley-AK47 V2 Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-AK47 V2 Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Colt 1911 Loading 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Dragunov PSL Loading 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-Dragunov PSL Loading 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-FNH FNP40 Loading 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-KelTec P318 Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-KelTec P318 Loading 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-KelTec P318 Loading 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-M4 V1 Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-M4 V1 Loading 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Ruger 1022 Loading 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-S&W Model 66 Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-S&W Model 66 Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-SKS M59 Loading 3m_B00M_GUCK_AB.wav
+  Guns - Designed\GUNMech_KelTec P3AT Handling_B00M_GUDS.wav
+
+[mace___flail_swing]
+  Urban Europe - Surround\AMBUrbn_Downtown Power Box Hum Germany V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Power Box Hum Germany V1_B00M_3DS05_4.0 Lo.wav
+
+[marketplace_ambient]
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream High Short Distant_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream High Very Short Close_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream High Very Short Distant_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream Low Very Short_B00M_MBDW.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Car Park Birds Germany V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Park Ducks Birds England V1_B00M_3DS05_4.0 Lo.wav
+
+[mystical_beast_roar_(e.g.,_chimera,_hydra)]
+  Death Whistle - FREE SOUNDS\AMBDsgn_Aztec Death Whistle Designed Wind Drone_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREAEthr_Aztec Death Whistle Designed Wraith Scream Long_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREAEthr_Aztec Death Whistle Designed Wraith Scream Short_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREAEthr_Aztec Death Whistle Reverberant Scream High Articulation_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREAEthr_Aztec Death Whistle Reverberant Scream High Long Impactful_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREAEthr_Aztec Death Whistle Reverberant Scream High Long Increasing_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREAEthr_Aztec Death Whistle Reverberant Scream High Short_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREAEthr_Aztec Death Whistle Reverberant Scream Low Long Impactful_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREAEthr_Aztec Death Whistle Reverberant Scream Low Long Increasing_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREAEthr_Aztec Death Whistle Reverberant Scream Low Medium Length_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREAEthr_Aztec Death Whistle Reverberant Scream Low Short_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREAEthr_Aztec Death Whistle Reverberant Scream Low Soft Short_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream High Articulation Close_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream High Articulation Distant_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream High Long Impactful Close_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream High Long Impactful Distant_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream High Long Increasing Close_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream High Long Increasing Distant_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream High Medium Length Close_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream High Short Close_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream High Short Soft Close_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream Low Long Impactful_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream Low Long Increasing_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream Low Medium Length_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream Low Short_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\MUSCInst_Aztec Death Whistle Dry Wind Hard_B00M_MBDW.wav
+  Death Whistle - FREE SOUNDS\MUSCInst_Aztec Death Whistle Dry Wind Soft_B00M_MBDW.wav
+  Guns - Construction Kit\GUNAuto_AR-AK47 V1 Double Tap 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNAuto_AR-AK47 V1 Double Tap 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V1 Burst 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V1 Double Tap 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V1 Double Tap 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V1 Double Tap 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V2 Burst 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V2 Double Tap 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V2 Double Tap 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V2 Double Tap 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V2 Double Tap 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V2 Double Tap 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-Beretta M9 Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-Beretta M9 Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-Beretta M9 Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-Beretta M9 Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-Beretta M9 Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-Beretta M9 Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-Colt 1911 Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-Colt 1911 Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-Colt 1911 Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-Colt 1911 Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-Colt 1911 Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-Colt 1911 Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP40 Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP40 Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP40 Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP40 Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP40 Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP40 Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP40 Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP40 Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP45 Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP45 Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP45 Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP45 Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP45 Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP45 Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-KelTec P3AT Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-KelTec P3AT Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-KelTec P3AT Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-KelTec P3AT Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-KelTec P3AT Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-KelTec P3AT Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-KelTec P3AT Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-KelTec P3AT Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-KelTec P3AT Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-Ruger 1022 Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-Ruger 1022 Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-Ruger 1022 Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-S&W Model 66 Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-S&W Model 66 Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-S&W Model 66 Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-S&W Model 66 Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-S&W Model 66 Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-S&W Model 66 Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-S&W Model 66 Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-S&W Model 66 Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V1 Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V1 Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V1 Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Shot Sequence 11m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Shot Sequence 12m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Shot Sequence 130m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Shot Sequence 13m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Shot Sequence 150m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V1 Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V1 Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V1 Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V1 Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V1 Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V2 Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V2 Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V2 Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V2 Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V2 Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V2 Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V2 Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V2 Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SMG-GSG5 Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SMG-GSG5 Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SMG-GSG5 Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SMG-GSG5 Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Shot Sequence 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Shot Sequence 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Shot Sequence 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V2 Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V2 Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V2 Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V2 Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V2 Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V2 Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V2 Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V2 Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Shot Sequence 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 FM Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 FM Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Shot Sequence 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Designed\GUNPis_Beretta M9 4x SingleShots light_B00M_GUDS.wav
+  Guns - Designed\GUNPis_Colt1911 4x SingleShots light_B00M_GUDS.wav
+  Guns - Designed\GUNPis_FNH FNP40 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNPis_FNH FNP40 4x SingleShots light_B00M_GUDS.wav
+  Guns - Designed\GUNPis_FNH FNP40 4x SingleShots natural_B00M_GUDS.wav
+  Guns - Designed\GUNPis_FNH FNP45 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNPis_FNH FNP45 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNPis_FNH FNP45 4x SingleShots light_B00M_GUDS.wav
+  Guns - Designed\GUNPis_FNH FNP45 4x SingleShots natural_B00M_GUDS.wav
+  Guns - Designed\GUNPis_KelTec P3AT 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNPis_KelTec P3AT 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNPis_KelTec P3AT 4x SingleShots light_B00M_GUDS.wav
+  Guns - Designed\GUNPis_KelTec P3AT 4x SingleShots natural_B00M_GUDS.wav
+  Guns - Designed\GUNPis_Ruger 1022 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNPis_S&W Model66 4x SingleShots light_B00M_GUDS.wav
+  Guns - Designed\GUNPis_S&W Model66 4x SingleShots natural_B00M_GUDS.wav
+  Guns - Designed\GUNRif_AK47 V1 4x SingleShots light_B00M_GUDS.wav
+  Guns - Designed\GUNRif_AK47 V2 4x SingleShots light_B00M_GUDS.wav
+  Guns - Designed\GUNRif_AK47 V2 4x SingleShots natural_B00M_GUDS.wav
+  Guns - Designed\GUNRif_GSG5 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNRif_GSG5 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNRif_GSG5 4x SingleShots light_B00M_GUDS.wav
+  Guns - Designed\GUNRif_M4 V1 4x SingleShots light_B00M_GUDS.wav
+  Guns - Designed\GUNRif_M4 V2 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNRif_M4 V2 4x SingleShots light_B00M_GUDS.wav
+  Urban Europe - Surround\AMBTran_Trans Train Station Hum Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Park Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Park Germany_B00M_3DS05_4.0 Lo.wav
+
+[npc_farewell]
+  Urban Europe - Surround\AMBMisc_Industrial Area Power Plant Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBMisc_Industrial Area Power Plant Germany_B00M_3DS05_4.0 Lo.wav
+
+[npc_interaction_(talk)]
+  Guns - Construction Kit\GUNMech_Foley-S&W Model 66 Loading 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP45 Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-Ruger 1022 Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-S&W Model 66 Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-S&W Model 66 Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V2 Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V2 Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V2 Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V2 Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 FM Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Single Shot 01 50m_B00M_GUCK_AB.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Large Terrace Traffic Trams Belgium_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Industrial Harbor Train Entrance Germany_B00M_3DS05_4.0 Lo.wav
+
+[object_break_(stone)]
+  Guns - Construction Kit\GUNMech_Foley-AK47 V1 Loading 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-AK47 V2 Loading 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-AK47 V2 Loading 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Dragunov PSL Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-Dragunov PSL Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-FNH FNP45 Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Ithaca M37 Loading 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Maverick 88 FM Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Maverick 88 Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-Maverick 88 Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Maverick 88 Loading 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-Maverick 88 Loading 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-S&W Model 66 Loading 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-SKS M59 Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-SKS M59 Loading 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-Winchester 1300 Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-Winchester 1300 Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Winchester 1300 Loading 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-Ruger 1022 Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-Ruger 1022 Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Shot Sequence 150m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SMG-GSG5 Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SMG-GSG5 Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 FM Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Designed\GUNMech_S&W Model66 Handling_B00M_GUDS.wav
+  Guns - Designed\GUNMech_Winchester1300 Handling_B00M_GUDS.wav
+  Urban Europe - Surround\AMBTraf_Bus Station Traffic Seagull Calm England_B00M_3DS05_4.0 Lo.wav
+
+[object_break_(wooden)]
+  Guns - Construction Kit\GUNAuto_AR-AK47 V2 Burst 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V2 Burst 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V2 Double Tap 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-AK47 V1 Loading 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-Ithaca M37 Handling 11m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-Ithaca M37 Loading 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-M4 V1 Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-M4 V1 Loading 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-M4 V2 Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-M4 V2 Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Mosin Nagant Loading 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-SKS M59 Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Winchester 1300 Loading 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-Beretta M9 Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-Beretta M9 Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP40 Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP40 Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP45 Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP45 Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-KelTec P3AT Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-KelTec P3AT Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-KelTec P3AT Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V2 Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V2 Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V2 Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V2 Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 FM Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 FM Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 FM Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 FM Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 FM Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 Single Shot 02 50m_B00M_GUCK_Mono.wav
+
+[ogre_footsteps]
+  Guns - Construction Kit\GUNAuto_AR-AK47 V1 Double Tap 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNAuto_AR-AK47 V2 Burst 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-Colt 1911 Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-Colt 1911 Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP40 Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-KelTec P3AT Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-Ruger 1022 Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V1 Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V1 Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V2 Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Single Shot 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Single Shot 02 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Shot Sequence 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Shot Sequence 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 FM Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 FM Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Designed\GUNAuto_AK47 V1 4x Bursts natural_B00M_GUDS.wav
+  Guns - Designed\GUNAuto_AK47 V2 4x Bursts huge_B00M_GUDS.wav
+  Guns - Designed\GUNAuto_AK47 V2 4x Bursts natural_B00M_GUDS.wav
+  Guns - Designed\GUNAuto_M4 V1 4x Bursts crispy_B00M_GUDS.wav
+  Guns - Designed\GUNAuto_M4 V1 4x Bursts huge_B00M_GUDS.wav
+  Guns - Designed\GUNAuto_M4 V2 4x Bursts huge_B00M_GUDS.wav
+  Guns - Designed\GUNPis_Beretta M9 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNPis_Colt1911 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNPis_Colt1911 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNPis_S&W Model66 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNPis_S&W Model66 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNRif_AK47 V1 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNRif_AK47 V2 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNRif_Dragunov PSL 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNRif_Dragunov PSL 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNRif_Dragunov PSL 4x SingleShots natural_B00M_GUDS.wav
+  Guns - Designed\GUNRif_M4 V1 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNRif_M4 V2 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNShotg_Ithaca M37 4x Single Shots huge_B00M_GUDS.wav
+  Guns - Designed\GUNShotg_Maverick88FM 4x SingleShots huge_B00M_GUDS.wav
+
+[ogre_grunts_&_roars]
+  Death Whistle - FREE SOUNDS\CREASrce_Aztec Death Whistle Dry Scream Low Soft Short_B00M_MBDW.wav
+
+[power_strike]
+  Guns - Construction Kit\GUNMech_Foley-Maverick 88 FM Handling 1m_B00M_GUCK_Mono.wav
+
+[projectile_travel]
+  Urban Europe - Surround\AMBTraf_Downtown Traffic Island Birds Spain_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTraf_Downtown Under Bridge Germany V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTraf_Downtown Under Bridge Germany V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBTraf_Downtown Under Bridge Germany V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTraf_Industrial Area Traffic Germany V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTraf_Trans Train Bridge England_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTraf_Trans Train Bridge England_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBTraf_Trans Under Freeway Bridge Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBTran_Trans Planes Takeoff Close Germany V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTran_Trans Planes Takeoff Close Germany V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Backyard Hum Moderate Traffic Belgium V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Street Construction Site Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Street Traffic Belgium V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Street Traffic Belgium V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Street Traffic Trams Italy_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Old Town Street Night Monaco_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Old Town Street Night Monaco_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Residential Area Street Traffic England_B00M_3DS05_4.0 Hi.wav
+
+[run]
+  Guns - Construction Kit\GUNAuto_AR-AK47 V1 Double Tap 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V1 Single Shot 01 2m_B00M_GUCK_AB.wav
+
+[sand___dust]
+  Guns - Construction Kit\GUNPis_PI-Beretta M9 Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-Beretta M9 Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-Colt 1911 Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP40 Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP45 Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP45 Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-KelTec P3AT Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-Ruger 1022 Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-Ruger 1022 Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V2 Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SMG-GSG5 Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SMG-GSG5 Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Urban Europe - Surround\AMBCnst_Downtown Car Park Construction Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBCnst_Downtown Car Park Construction Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBCnst_Downtown Construction Site Busy Netherlands_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBCnst_Downtown Construction Site Busy Netherlands_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBTraf_Industrial Area Traffic Germany V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTraf_Industrial Area Traffic Germany V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBTraf_Industrial Area Traffic Germany V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBTraf_Trans Under Highway Bridge After Rain Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Backyard Hum Moderate Traffic Belgium V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Backyard Hum Moderate Traffic Belgium V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Large Square Fountain Calm France_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Large Square Fountain Calm France_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Street Construction Site Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Street Pedestrian Elevator Belgium_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Old Town District Neighborhood France V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Old Town District Neighborhood France V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Trans Train Station Car Park Germany V2_B00M_3DS05_4.0 Hi.wav
+
+[shield_bash]
+  Guns - Construction Kit\GUNPis_PI-Colt 1911 Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-Colt 1911 Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNPis_PI-Colt 1911 Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP40 Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP45 Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V1 Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V2 Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SMG-GSG5 Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SMG-GSG5 Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 FM Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 FM Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Shot Sequence 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Designed\GUNPis_Beretta M9 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNPis_Beretta M9 4x SingleShots natural_B00M_GUDS.wav
+  Guns - Designed\GUNPis_Colt1911 4x SingleShots natural_B00M_GUDS.wav
+  Guns - Designed\GUNShotg_Maverick88 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNShotg_Maverick88 4x SingleShots light_B00M_GUDS.wav
+
+[shield_block]
+  Death Whistle - FREE SOUNDS\CREAEthr_Aztec Death Whistle Reverberant Scream Low Very Short_B00M_MBDW.wav
+
+[spear_thrust]
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Shot Sequence 01 2m_B00M_GUCK_AB.wav
+
+[spell_charge___build-up]
+  Urban Europe - Surround\AMBMisc_Industrial Electrical Power Line Night Germany V2_B00M_3DS05_4.0 Hi.wav
+
+[spell_impact___explosion]
+  Guns - Construction Kit\GUNAuto_AR-AK47 V2 Burst 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V1 Burst 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V1 Burst 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V1 Double Tap 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V2 Burst 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNPis_PI-Colt 1911 Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V1 Single Shot 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Shot Sequence 01 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Shot Sequence 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Shot Sequence 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Shot Sequence 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Shot Sequence 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Shot Sequence 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Shot Sequence 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Shot Sequence 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Shot Sequence 02 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Shot Sequence 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Shot Sequence 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-Mosin Nagant Single Shot 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Shot Sequence 11m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Shot Sequence 12m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Shot Sequence 130m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Shot Sequence 13m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Shot Sequence 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 Single Shot 02 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Shot Sequence 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Shot Sequence 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Shot Sequence 01 50m_B00M_GUCK_AB.wav
+  Guns - Designed\GUNAuto_AK47 V1 4x Bursts crispy_B00M_GUDS.wav
+  Guns - Designed\GUNAuto_AK47 V1 4x Bursts huge_B00M_GUDS.wav
+  Guns - Designed\GUNAuto_AK47 V2 4x Bursts crispy_B00M_GUDS.wav
+  Guns - Designed\GUNRif_AK47 V1 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNRif_AK47 V1 4x SingleShots natural_B00M_GUDS.wav
+  Guns - Designed\GUNRif_AK47 V2 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNRif_Dragunov PSL 4x SingleShots light_B00M_GUDS.wav
+  Guns - Designed\GUNRif_M4 V1 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNRif_M4 V1 4x SingleShots natural_B00M_GUDS.wav
+  Guns - Designed\GUNRif_MosinNagant 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNRif_MosinNagant 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNRif_MosinNagant 4x SingleShots light_B00M_GUDS.wav
+  Guns - Designed\GUNRif_MosinNagant 4x SingleShots natural_B00M_GUDS.wav
+  Guns - Designed\GUNRif_SKS M59 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNRif_SKS M59 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNRif_SKS M59 4x SingleShots light_B00M_GUDS.wav
+  Guns - Designed\GUNRif_SKS M59 4x SingleShots natural_B00M_GUDS.wav
+  Guns - Designed\GUNShotg_Ithaca M37 4x Single Shots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNShotg_Ithaca M37 4x Single Shots light_B00M_GUDS.wav
+  Guns - Designed\GUNShotg_Ithaca M37 4x Single Shots natural_B00M_GUDS.wav
+  Guns - Designed\GUNShotg_Maverick88 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNShotg_Maverick88FM 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNShotg_Maverick88FM 4x SingleShots natural_B00M_GUDS.wav
+  Guns - Designed\GUNShotg_Winchester1300 4x SingleShots crispy_B00M_GUDS.wav
+  Guns - Designed\GUNShotg_Winchester1300 4x SingleShots huge_B00M_GUDS.wav
+  Guns - Designed\GUNShotg_Winchester1300 4x SingleShots light_B00M_GUDS.wav
+  Guns - Designed\GUNShotg_Winchester1300 4x SingleShots natural_B00M_GUDS.wav
+
+[sprint]
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Single Shot 02 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Urban Europe - Surround\AMBTraf_Downtown Traffic Square Busy Morning France_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Street Traffic Belgium V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Harbor Backside Calm France_B00M_3DS05_4.0 Lo.wav
+
+[stone___marble_floor]
+  Guns - Construction Kit\GUNAuto_AR-AK47 V1 Burst 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNAuto_AR-AK47 V1 Burst 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNAuto_AR-AK47 V1 Burst 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNAuto_AR-AK47 V1 Burst 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V1 Burst 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V1 Burst 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V2 Burst 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V1 Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V1 Single Shot 01 50m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Shot Sequence 01 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Shot Sequence 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Shot Sequence 130m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Shot Sequence 150m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Shot Sequence 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Designed\GUNAuto_AK47 V2 4x Bursts light_B00M_GUDS.wav
+  Guns - Designed\GUNAuto_M4 V1 4x Bursts light_B00M_GUDS.wav
+
+[temple___sacred_ambient]
+  Urban Europe - Surround\AMBUrbn_Downtown Park Fountains Germany V2_B00M_3DS05_4.0 Hi.wav
+
+[vehicle_engine_(if_applicable)]
+  Guns - Construction Kit\GUNAuto_AR-AK47 V1 Double Tap 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNAuto_AR-AK47 V1 Double Tap 50m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V1 Burst 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V1 Double Tap 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V2 Burst 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V1 Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-AK47 V1 Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V1 Single Shot 01 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-Dragunov PSL Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_SR-SKS M59 V1 Single Shot 01 30m_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Single Shot 02 3m_B00M_GUCK_AB.wav
+  Urban Europe - Surround\AMBMisc_Industrial Electrical Power Line Night Germany V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTraf_Bus Station Traffic Seagull Busy England_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBTraf_Downtown Under Bridge Germany V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Backyard Hum Calm England V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Large Terrace Traffic Trams Belgium_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Street Traffic Trams Italy_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Industrial Harbor Train Entrance Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Old Town District Neighborhood France V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Park Morning England V2_B00M_3DS05_4.0 Lo.wav
+
+[victory_theme]
+  Urban Europe - Surround\AMBMrkt_Market Square People Belgium_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Traffic Square People England_B00M_3DS05_4.0 Hi.wav
+
+[walk]
+  Guns - Construction Kit\GUNPis_PI-FNH FNP45 Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNPis_PI-FNH FNP45 Single Shot 02 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNShotg_SG-Ithaca M37 Shot Sequence 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 Single Shot 02 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Single Shot 02 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNShotg_SG-Winchester 1300 Single Shot 02 3m_B00M_GUCK_AB.wav
+
+[water___shallow_stream]
+  Urban Europe - Surround\AMBUrbn_Downtown Car Park Distant Construction Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Residential Area Close Industrial Harbor Germany_B00M_3DS05_4.0 Lo.wav
+
+[weapon_clash_(light)]
+  Guns - Construction Kit\GUNMech_Foley-FNH FNP40 Handling 3m_B00M_GUCK_AB.wav
+  Guns - Designed\GUNMech_Colt1911 Handling_B00M_GUDS.wav
+
+[weapon_unsheathe___sheath]
+  Guns - Construction Kit\GUNMech_Foley-AK47 V1 Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-AK47 V1 Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Beretta M9 Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-Beretta M9 Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Beretta M9 Loading 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-Beretta M9 Loading 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Colt 1911 Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-Colt 1911 Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Colt 1911 Loading 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-FNH FNP40 Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-FNH FNP40 Loading 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-FNH FNP45 Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-GSG5 Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-GSG5 Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-GSG5 Loading 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-GSG5 Loading 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-KelTec P318 Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Mosin Nagant Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-Mosin Nagant Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Ruger 1022 Handling 1m_B00M_GUCK_Mono.wav
+  Guns - Construction Kit\GUNMech_Foley-Ruger 1022 Handling 3m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNMech_Foley-Ruger 1022 Loading 3m_B00M_GUCK_AB.wav
+  Guns - Designed\GUNMech_AK47 Handling_B00M_GUDS.wav
+  Guns - Designed\GUNMech_Beretta M9 Handling_B00M_GUDS.wav
+  Guns - Designed\GUNMech_FNH FNP40 Handling_B00M_GUDS.wav
+  Guns - Designed\GUNMech_FNH FNP45 Handling_B00M_GUDS.wav
+  Guns - Designed\GUNMech_GSG5 Handling_B00M_GUDS.wav
+  Guns - Designed\GUNMech_M4 Handling_B00M_GUDS.wav
+  Guns - Designed\GUNMech_Maverick88 FM Handling_B00M_GUDS.wav
+  Guns - Designed\GUNMech_Maverick88 Handling_B00M_GUDS.wav
+  Guns - Designed\GUNMech_Ruger1022 Handling_B00M_GUDS.wav
+  Guns - Designed\GUNMech_SKS M59 Handling_B00M_GUDS.wav
+  Guns - Designed\GUNShotg_Maverick88 4x SingleShots natural_B00M_GUDS.wav
+
+[whirlwind_attack]
+  Guns - Construction Kit\GUNShotg_SG-Maverick 88 Single Shot 02 3m_B00M_GUCK_AB.wav
+  Urban Europe - Surround\AMBTraf_Downtown Traffic Square Busy Morning France_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTraf_Trans Tunnel Entrance Traffic Night Monaco_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTraf_Trans Tunnel Entrance Traffic Night Monaco_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Backyard Hum Moderate Traffic Belgium V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Rooftop Traffic Italy_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Financial District Street Corner Busy Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Street Traffic Night England_B00M_3DS05_4.0 Lo.wav
+
+[wind]
+  Urban Europe - Surround\AMBTraf_Downtown Small Square Busy Traffic Trams Belgium V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTran_Trans Train Station Car Park Germany V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Backyard Hum Calm England V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Car Park Traffic Busy Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Large Square Fountains Spain_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Park Fountains Germany V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Park Fountains Germany V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Park Fountains Germany V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Small Fountain Seagull England_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Square Fountain People Traffic Belgium V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Square People Germany V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Neighborhood Calm Night England_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Neighborhood Calm Night England_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Old Town Park Night Monaco_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Old Town Park Night Monaco_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Old Town Viewing Point Night Monaco_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Old Town Viewing Point Night Monaco_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Residential Area Backyard Hum England_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Residential Area Fountains England V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Residential Area Fountains England V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Residential Area Fountains England V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Residential Area Fountains England V2_B00M_3DS05_4.0 Lo.wav
+
+[wind___storm]
+  Urban Europe - Surround\AMBTraf_Downtown Small Square Busy Traffic Trams Belgium V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBTraf_Downtown Small Square Busy Traffic Trams Belgium V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTraf_Downtown Small Square Busy Traffic Trams Belgium V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBTraf_Trans Under Freeway Bridge Germany_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBTraf_Trans Under Highway Bridge After Rain Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBTran_Trans Train Station Car Park Germany V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Backyard Hum Calm England V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Car Park Distant Construction Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Car Park Germany V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Car Park Germany V1_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Car Park Germany V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Car Park Germany V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Car Park Traffic Busy Germany_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Large Square Moderate Belgium_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Small Fountain Seagull England_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Square Fountain People Traffic Belgium V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Street Pedestrian Elevator Belgium_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Downtown Street Traffic Trams Busy Belgium_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Financial District Hum Traffic England V1_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Financial District Hum Traffic England V2_B00M_3DS05_4.0 Hi.wav
+  Urban Europe - Surround\AMBUrbn_Financial District Hum Traffic England V2_B00M_3DS05_4.0 Lo.wav
+  Urban Europe - Surround\AMBUrbn_Residential Area Backyard Hum England_B00M_3DS05_4.0 Lo.wav
+
+[wooden_deck___bridge]
+  Guns - Construction Kit\GUNAuto_AR-AK47 V1 Burst 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNAuto_AR-M4 V1 Double Tap 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V1 Single Shot 01 2m_B00M_GUCK_AB.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V1 Single Shot 01 30m Indirect_B00M_GUCK_XY.wav
+  Guns - Construction Kit\GUNRif_AR-M4 V1 Single Shot 02 2m_B00M_GUCK_AB.wav
+
