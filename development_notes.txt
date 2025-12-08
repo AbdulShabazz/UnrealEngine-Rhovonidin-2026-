@@ -18,3 +18,25 @@ Strategy: Hebron must win flawless strategic victories, while being protected by
 - [ ] A Free Roam Open World: The sewers and catacombs are navigable. Perhaps a secret route to the emperor's Imperial Box.
 
 - [ ] multi language (captions) support.
+
+- [ ] The allowed delay between combination cells in the Combat Carousel is 125 ms (1/16th note duration at standard 120 bpm); the allowed delay between maneuvers in each cell is 62.5 ms (1/32th musical note duration), with combinations consisting of one to six maneuvers -- highlighted by the requisite number of hit lamps or strike lamps within each cell.
+
+BPM Metronome [60 to 262]
+
+At DEFAULT 120 BPM
+	•	Whole: 2000 ms
+	•	Half: 1000 ms
+	•	Dotted quarter: 750 ms
+	•	Quarter: 500 ms
+	•	Quarter-note triplet: ≈ 333 ms
+	•	Eighth: 250 ms
+	•	Sixteenth: 125 ms
+	•	32nd: 62.5 ms
+	•	64th: 31.25 ms
+	•	128th: 16.125 ms
+
+BPM can be increased to 262 BPM (maneuvers become faster yet less powerful, and require tighter timing between hit lamps); or lowered to 60 BPM (as a result, maneuvers become slower stronger and more deliberate, permitting a more graceful hit lamp timing; however, combination cells and some maneuvers are now easier to block)!
+
+- [ ] Shin guards and forearms guards grant Hebron 100% defense against average foes.
+
+
