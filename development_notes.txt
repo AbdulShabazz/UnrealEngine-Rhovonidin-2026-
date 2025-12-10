@@ -39,4 +39,6 @@ BPM can be increased to 262 BPM (maneuvers become faster yet less powerful, and 
 
 - [ ] Shin guards and forearms guards grant Hebron 100% defense against average foes.
 
+- [ ] The UE Locomotor plugin can be used to auto-rig complex character foot movement through Control
+Rig w/ the aid of custom "LookAt" blueprints. The Control Rig Dependency Graph (tab) is actually a debugger which updates CR dependencies frame by frame
 
