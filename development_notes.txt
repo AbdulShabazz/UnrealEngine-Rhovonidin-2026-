@@ -42,3 +42,7 @@ BPM can be increased to 262 BPM (maneuvers become faster yet less powerful, and 
 - [ ] The UE Locomotor plugin can be used to auto-rig complex character foot movement through Control
 Rig w/ the aid of custom "LookAt" blueprints. The Control Rig Dependency Graph (tab) is actually a debugger which updates CR dependencies frame by frame
 
+- [ ] RepNotify fires an event when a variable changes!
+
+- [ ] Engine/DerivedDataCache, Engine/Saved, Engine/Intermediate, and .vs folders can be safe deleted from Unreal Engine projects to save space.
+
