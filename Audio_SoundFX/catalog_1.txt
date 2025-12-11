@@ -45,10 +45,15 @@
     D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_LEAD IN-Ventilation Hose Mangled_B00M_CICK.wav
     D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_LEAD IN-Video Tape Texture_B00M_CICK.wav
     D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Sizzle Out Whooshed_B00M_CICK.wav (Ground & Pound!)
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\EXPLDsgn_EXPLOSION LARGE-Deep Punch_B00M_MATTER.wav
     D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-SLAM Drop It Hot_B00M_CTDS.wav (Miss, Ground Hit)
     D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-SLAM Heavens Door_B00M_CTDS.wav
     D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-SOFT Docked_B00M_CTDS.wav
     D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-SOFT Lead Balloon_B00M_CTDS.wav
+
+[Gothic Foe - Victorious]
+
+    D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_LEAD IN-Modulated Phasing_B00M_CICK.wav
 
 [Victory]
     D:\CRC_WAV\Medieval Life - Construction Kit\BELLLrg_Bell Ringing Big_B00M_MLCK.wav (Round Over/Next)
@@ -59,10 +64,6 @@
 [Gothic Foe - Death Rattle]
 
     D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_IMPACT-Tonal Phasing_B00M_CICK.wav
-
-[Gothic Foe - Victorious]
-
-    D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_LEAD IN-Modulated Phasing_B00M_CICK.wav
 
 [Spell]
 
@@ -78,9 +79,10 @@
     D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Ghostly Horror Tone_B00M_CICK.wav
     D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_IMPACT-Noise Punch Down_B00M_CICK.wav
 
-[Combat Carousel - End of Sequence - Loss (pre cinematic)]
+[Combat Carousel -]
 
-    D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_SUSTAIN-Rubberband On Cardboard Box Snap_B00M_CICK.wav
+    D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_SUSTAIN-Rubberband On Cardboard Box Snap_B00M_CICK.wav ( End of Sequence - Loss (pre cinematic))
+    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM LARGE-High Tech Enter Bottom_B00M_MUI.wav (Sweep In & Out)
 
 [Underwater]
 
@@ -92,13 +94,98 @@
     D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_SUSTAIN-Stylized Textile Plastic Foil Crackle_B00M_CICK.wav
     D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Low Phaser Liquid Texture_B00M_CICK.wav
 
-[Dragon - Flight]
+[Hebron - Combat]
+
+    D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSrce_SUSTAIN-Metal Impact Distorted Filter Smear_B00M_CICK.wav
+    D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_SUSTAIN-Noisy Whoosh Scrape_B00M_CICK.wav (Demolish Obstacle)
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT AGGRESSIVE-Razor Edge_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT SOFT-Iron Fist_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Head Bang_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Iron Dome_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Jailbreak_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Open Up_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Shutter Flash_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Steel Collapse_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Casual Violence_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Cosmic Dust_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Crumbler_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Dark Clouds_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Delicate Destruction_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Galvanized Spank_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Rage_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT SOFT-Blurred Lines_B00M_CIDS.wav (Kick)
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT SOFT-Breeze By_B00M_CIDS.wav (Strike)
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT SOFT-Clash_B00M_CIDS.wav (Strike)
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT SOFT-Locker Room_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT SOFT-Shadow_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Behind Closed Doors_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-In Isolation_B00M_CIDS.wav (Sword in the Ground - Victory)
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Platinum_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Poltergeist Activity_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Snare Fill_B00M_CIDS.wav (Weapon Lost it lands)
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Vortex_B00M_CIDS.wav
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNBoom_BASS DROP-Deep Shock_B00M_CIDS.wav (Kick stun)
+    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Sweet Spot_B00M_CIDS.wav (Gunshot Dodge)
+    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBoom_CINEMATIC HIT-BOOM Judgement_B00M_CTDS.wav
+    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBoom_CINEMATIC HIT-BOOM Seize The Day_B00M_CTDS.wav (Bell Impact Foe)
+    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBoom_CINEMATIC HIT-BOOM Last Hour_B00M_CTDS.wav (Bell Lands)
+    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBoom_CINEMATIC HIT-BOOM Train Wreck_B00M_CTDS.wav (New Foe Door)
+    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_AGGRESSIVE-Eat This_B00M_CTDS.wav (Hebron, Look Upon Me)
+    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_AGGRESSIVE-In Your Face_B00M_CTDS.wav (Hebron, Look Upon Me (cont'd))
+    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_AGGRESSIVE-Titans Grip_B00M_CTDS.wav (Hebron, Am I Not Lethal?)
+    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_AGGRESSIVE-Wave Of Destruction_B00M_CTDS.wav (Hebron, Am I Not Lethal?)
+    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_SOFT-Call For War_B00M_CTDS.wav (Fleeing)
+    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_SOFT-Earth Shaker_B00M_CTDS.wav (Enemy Revive)
+    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_SOFT-Mean Machine_B00M_CTDS.wav (Revived Enemy Regard)
+    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-AGGRESSIVE Excalibur_B00M_CTDS.wav
+    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-AGGRESSIVE Get Over Here_B00M_CTDS.wav (Rotary Gears Clank)
+    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-AGGRESSIVE Iron Curtain_B00M_CTDS.wav
+    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM MEDIUM-High Ring_B00M_MUI.wav (Enemy Laser Tracking)
+    D:\CRC_WAV\Modern UI\Deny\UIClick_DENY MEDIUM-Dropping Grains_B00M_MUI.wav (Combat Carousel Collapse)
+    D:\CRC_WAV\Modern UI\Deny\UIClick_DENY MEDIUM-Laser Shield_B00M_MUI.wav (Combat Carousel Invincible)
+    D:\CRC_WAV\Modern UI\Pop Up\UIMvmt_POP UP-Glassy Terminal Screen_B00M_MUI.wav (Sword against metal, rush it)
+    D:\CRC_WAV\Modern UI\Scan\UIData_SCAN MEDIUM-Moving Through Glass_B00M_MUI.wav (Sheer Terror)
+    D:\CRC_WAV\Modern UI\Scan\UIData_SCAN SMALL-Glassy Look_B00M_MUI.wav (Shimmer)
+    D:\CRC_WAV\Modern UI\Select\UIClick_SELECT METAL-Basic Trigger Click_B00M_MUI.wav (Reload/Ammo Fall Impact)
+    D:\crc_wav\Debris - Construction Kit\DIRTDust_Dirt Trickle Soft_B00M_DBCK.wav (Lift sword from debris)
+    D:\crc_wav\Debris - Construction Kit\EXPLDsgn_Add Explosion 01_B00M_DBCK.wav (Friendly Cannon)
+    D:\crc_wav\Debris - Construction Kit\EXPLDsgn_Add Explosion 02_B00M_DBCK.wav
+    D:\crc_wav\Debris - Construction Kit\EXPLDsgn_Add Explosion 03_B00M_DBCK.wav
+    D:\crc_wav\Magic - Arcane Forces - Designed\MAGElem_PROJECTILE-Fire Impact Dragons Fury_B00M_MAFDS.wav (Flaming projectiles)
+    D:\crc_wav\Magic - Arcane Forces - Designed\MAGElem_PROJECTILE-Fire Impact Fire Without Smoke_B00M_MAFDS.wav
+    D:\crc_wav\Magic - Arcane Forces - Designed\WHSH_DIVINE-Large Angels Share_B00M_MAFDS.wav (Power UP!)
+
+[Hebron (Map Exploration)]
+
+    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM SMALL-Approve Complex Stutter_B00M_MUI.wav (Hand Wrist Map)
+    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM SMALL-Crystal Chimes_B00M_MUI.wav (Loot Box Emptying Menu Call up)
+    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM SMALL-High Glass Tonal_B00M_MUI.wav (A glimpse at, Corner of his eye)
+    D:\CRC_WAV\Modern UI\Pop Up\UIMvmt_POP UP-Glassy Stutter_B00M_MUI.wav (Combat Done Scavenge for Level Up, Acquire)
+    D:\CRC_WAV\Modern UI\Pop Up\UIMvmt_POP UP-Glassy_B00M_MUI.wav
+    D:\CRC_WAV\Modern UI\Pop Up\UIMvmt_POP UP-Subtle Grain_B00M_MUI.wav
+    D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Data Transfer_B00M_MUI.wav (Brief Loading)
+    D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Flutter Fast_B00M_MUI.wav (Experience, Carousel Tuning)
+    D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Flutter Slow_B00M_MUI.wav
+    D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Hightech Grains_B00M_MUI.wav
+    D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Metal Grains_B00M_MUI.wav
+    D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Rapid Beeps_B00M_MUI.wav (Critical)
+    D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Subtle Clicks_B00M_MUI.wav
+    D:\CRC_WAV\Modern UI\Scan\UIData_SCAN LARGE-Glassy Hum_B00M_MUI.wav (North/South Mech Surveyor)
+    D:\crc_wav\Debris - Construction Kit\METLCrsh_Metal Bars Drop Long_B00M_DBCK.wav (Stumble through shells)
+
+[Dragon (Flight)]
 
     D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_SUSTAIN-Wind Low_B00M_CICK.wav
 
-[Dragon - Combat]
+[Dragon (Combat)]
 
-    D:\CRC_WAV\Modern UI\Window\UIMvmt_WINDOW LARGE-Vocal Ship Command OPEN_B00M_MUI.wav
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\SCIMisc_ABILITY RELEASE-Thunder Roller_B00M_MATTER.wav
+    D:\crc_wav\Magic - Arcane Forces - Designed\MAGSpel_BARRIER-Large Castigate_B00M_MAFDS.wav
+    D:\crc_wav\Flammable Liquid - FREE SOUNDS (Dragon sounds)
+    D:\crc_wav\Magic - Alchemy - Designed\MAGSpel_POTION FIRE-Incendiary Motion_B00M_MALDS.wav
+    D:\crc_wav\Magic - Alchemy - Designed\DSGNWhsh_WHOOSH CURSED-Ghostly Whirl_B00M_MALDS.wav
+    D:\crc_wav\Magic - Alchemy - Designed\DSGNWhsh_WHOOSH CURSED-Haunting Howl_B00M_MALDS.wav (Gasp)
+    D:\CRC_WAV\Modern UI\Window\UIMvmt_WINDOW LARGE-Vocal Ship Command OPEN_B00M_MUI.wav (other)
     D:\CRC_WAV\Modern UI\Window\UIMvmt_WINDOW LARGE-Sub Movement OPEN_B00M_MUI.wav
     D:\CRC_WAV\Modern UI\Window\UIMvmt_WINDOW LARGE-Low Rise CLOSE_B00M_MUI.wav
     D:\CRC_WAV\Modern UI\Whoosh\UIMvmt_WHOOSH SMALL-Noisy Sweeper_B00M_MUI.wav
@@ -152,7 +239,67 @@
     D:\CRC_WAV\Modern UI\Whoosh\UIMvmt_WHOOSH MEDIUM-Wave Soft_B00M_MUI.wav (High Altitude Throat Projectiles)
     D:\CRC_WAV\Modern UI\Whoosh\UIMvmt_WHOOSH MEDIUM-Weird Filter_B00M_MUI.wav
     D:\CRC_WAV\Modern UI\Window\UIMvmt_WINDOW LARGE-Sub Movement CLOSE_B00M_MUI.wav (Pre Satisfaction, Pre Sudden Projectile Land)
+    D:\crc_wav\Debris - Construction Kit\DESTRMisc_Foam Large Heavy Low_B00M_DBCK.wav (close, debris)
+    D:\crc_wav\Debris - Construction Kit\DESTRMisc_Foam Large Heavy_B00M_DBCK.wav
+    D:\crc_wav\Debris - Construction Kit\DESTRMisc_Foam Large Multiple_B00M_DBCK.wav
+    D:\crc_wav\Debris - Construction Kit\DESTRMisc_Foam Large Single on Foam_B00M_DBCK.wav
+    D:\crc_wav\Debris - Construction Kit\DESTRMisc_Foam Large Single on Ground_B00M_DBCK.wav
+    D:\crc_wav\Debris - Construction Kit\DESTRMisc_Foam Small Multiple_B00M_DBCK.wav
+    D:\crc_wav\Debris - Construction Kit\DESTRMisc_Foam Small Single_B00M_DBCK.wav
+    D:\crc_wav\Debris - Construction Kit\DESTRMisc_Rumble Debris Generic 06_B00M_DBCK.wav
+    D:\crc_wav\Debris - Construction Kit\DESTRMisc_Rumble Debris Generic 01_B00M_DBCK.wav (Fire in the atmosphere)
+    D:\crc_wav\Debris - Construction Kit\DESTRMisc_Rumble Debris Generic 02_B00M_DBCK.wav
+    D:\crc_wav\Debris - Construction Kit\DESTRMisc_Rumble Debris Generic 03_B00M_DBCK.wav
+    D:\crc_wav\Debris - Construction Kit\DESTRMisc_Rumble Debris Generic 04_B00M_DBCK.wav
+    D:\crc_wav\Debris - Construction Kit\DESTRMisc_Rumble Debris Generic 05_B00M_DBCK.wav
+    D:\crc_wav\Magic - Arcane Forces - Designed\WHSH_ARCANE-Large Atomic Energy_B00M_MAFDS.wav (projectile)
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\EXPLDsgn_EXPLOSION LARGE-Ear Deafen_B00M_MATTER.wav (Impact)
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\EXPLDsgn_EXPLOSION LARGE-Fusion Detonation_B00M_MATTER.wav
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\SCIEnrg_ABILITY CHARGE-Dark Liquid_B00M_MATTER.wav (Recharge HP)
+    D:\crc_wav\MATTER – SCI-FI ELEMENTS\SCIEnrg_ABILITY CHARGE-Whooshy Fast Jump_B00M_MATTER.wav
+    D:\crc_wav\MATTER – SCI-FI ELEMENTS\SCIEnrg_ABILITY RELEASE-Soft Flow_B00M_MATTER.wav (Dejected)
+    D:\crc_wav\MATTER – SCI-FI ELEMENTS\SCIEnrg_IMPACT LARGE-Charged Splash_B00M_MATTER.wav (Eye lightning blast)
+    D:\crc_wav\MATTER – SCI-FI ELEMENTS\SCIImpt_EXPLOSION LARGE-Hollow Finisher_B00M_MATTER.wav (Deflect)
+    D:\crc_wav\MATTER – SCI-FI ELEMENTS\SCIImpt_IMPACT MEDIUM-Spectral Hit_B00M_MATTER.wav (Agitated!)
 
+[Mechanized Foe (Combat)]
+
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\DSGNSynth_ABILITY DEACTIVATE-Dark Unleash_B00M_MATTER.wav
+    D:\crc_wav\Magic - Alchemy - Designed\MAGPoof_POOF CURSED-Grim Glare_B00M_MALDS.wav
+    D:\crc_wav\Magic - Alchemy - Designed\EXPLDsgn_EXPLOSION-Komet Strike_B00M_MALDS.wav
+    D:\crc_wav\Magic - Alchemy - Designed\DSGNWhsh_WHOOSH NEUTRAL-Flame Rush_B00M_MALDS.wav
+    D:\crc_wav\Magic - Alchemy - Designed\DSGNWhsh_WHOOSH HOLY-Fountain Of Hope_B00M_MALDS.wav
+    D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Driven Metal Plate Vibration_B00M_CICK.wav
+    D:\crc_wav\Magic - Alchemy - Designed\DSGNWhsh_WHOOSH HOLY-Ethernal Slide_B00M_MALDS.wav
+    D:\crc_wav\Magic - Alchemy - Designed\DSGNWhsh_WHOOSH CURSED-Desolate Draft_B00M_MALDS.wav
+    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM MEDIUM-High Tech Enter Light_B00M_MUI.wav
+    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM LARGE-Filter Bell Wobble_B00M_MUI.wav (Invincible)
+    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM MEDIUM-Metal Impact Synth_B00M_MUI.wav (Confirmed Lock on)
+    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM MEDIUM-Synthetic Grain Sweep_B00M_MUI.wav (Grunt)
+    D:\CRC_WAV\Modern UI\Deny\UIClick_DENY MEDIUM-Metallic Bass Hit Modulation_B00M_MUI.wav (Taunt)
+    D:\CRC_WAV\Modern UI\Impact Sweetener\UIMisc_IMPACT SWEETENER-Alien Drop_B00M_MUI.wav (Grunt)
+    D:\CRC_WAV\Modern UI\Impact Sweetener\UIMisc_IMPACT SWEETENER-AI Power Down_B00M_MUI.wav
+    D:\CRC_WAV\Modern UI\Impact Sweetener\UIMisc_IMPACT SWEETENER-Tonal Sub_B00M_MUI.wav (Deflect!)
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\DSGNImpt_IMPACT LARGE-Corrupted Digital Armour_B00M_MATTER.wav
+    D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Zap Gnarl_B00M_MUI.wav (Fast Delegate)
+    D:\CRC_WAV\Modern UI\Scan\UIData_SCAN LARGE-Heavy Tremolo_B00M_MUI.wav (Reverse Energy Impact Damage Resist)
+    D:\crc_wav\Magic - Alchemy - Designed\MAGPoof_POOF HOLY-Celestial Spheroid_B00M_MALDS.wav (impact)
+    D:\crc_wav\Magic - Alchemy - Designed\MAGPoof_POOF NEUTRAL-Explosive Detonation_B00M_MALDS.wav
+    D:\crc_wav\Magic - Arcane Forces - Designed\MAGElem_PROJECTILE-Acid Impact Corrosive Curse_B00M_MAFDS.wav
+    D:\crc_wav\Magic - Arcane Forces - Designed\MAGElem_PROJECTILE-Electricity Impact Lightning Strike_B00M_MAFDS.wav
+    D:\crc_wav\Magic - Arcane Forces - Designed\MAGPoof_ZAP-Moonlight Rush_B00M_MAFDS.wav
+    D:\crc_wav\Magic - Alchemy - Designed\MAGPoof_POOF NEUTRAL-Sprinkle Pop_B00M_MALDS.wav (Drown you!)
+    D:\crc_wav\Magic - Alchemy - Designed\MAGSpel_POTION CURSED-Bewitched Iniquitous Blizzard_B00M_MALDS.wav (Water Dance)
+    D:\crc_wav\Magic - Arcane Forces - Designed\MAGPoof_ZAP-Spirit Whip_B00M_MAFDS.wav (Power UP!)
+
+[Ultra Wolf (Combat)]
+
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\DSGNGran_TEXTURE-Mechanical Stutter_B00M_MATTER.wav
+    D:\CRC_WAV\Modern UI\Impact Sweetener\UIMisc_IMPACT SWEETENER-Alien Drop_B00M_MUI.wav (Lingering Retreat in Defeat)
+    D:\crc_wav\Birds of Prey\Birds Of Prey_48kHz\BIRDPrey_VULTURE Cape Honk 01_B00M_BPCK.wav (Assess the threat)
+    D:\crc_wav\Birds of Prey\Birds Of Prey_48kHz\BIRDPrey_VULTURE Cape Screech 02_B00M_BPCK.wav
+    D:\crc_wav\Birds of Prey\Birds Of Prey_48kHz\BIRDTrop_CRANE Blue Call Courting 01_B00M_BPCK.wav (water fowl, you dont this coming threat)
+    D:\crc_wav\Death Whistle - FREE SOUNDS\AMBDsgn_Aztec Death Whistle Designed Wind Drone_B00M_MBDW.wav (this is the coming threat)
 
 [Vanish into tunnel cave]
 
@@ -174,10 +321,6 @@
 
     D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Distorted Thunder Hit_B00M_CICK.wav
     D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Wind Blow_B00M_CICK.wav
-
-[Mechanized Foe - Combat]
-
-    D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Driven Metal Plate Vibration_B00M_CICK.wav
 
 [Grain Spill / Massive Ammo Spill]
 
@@ -246,90 +389,6 @@
     D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Wind Gust Noisey Static_B00M_CICK.wav
     D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_TAIL-Wind Movement Tonal_B00M_CICK.wav
 
-[Hebron - Combat]
-
-    D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSrce_SUSTAIN-Metal Impact Distorted Filter Smear_B00M_CICK.wav
-    D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNSynth_SUSTAIN-Noisy Whoosh Scrape_B00M_CICK.wav (Demolish Obstacle)
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT AGGRESSIVE-Razor Edge_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT SOFT-Iron Fist_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Head Bang_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Iron Dome_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Jailbreak_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Open Up_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Shutter Flash_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_HIT-Steel Collapse_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Casual Violence_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Cosmic Dust_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Crumbler_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Dark Clouds_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Delicate Destruction_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Galvanized Spank_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT AGGRESSIVE-Rage_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT SOFT-Blurred Lines_B00M_CIDS.wav (Kick)
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT SOFT-Breeze By_B00M_CIDS.wav (Strike)
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT SOFT-Clash_B00M_CIDS.wav (Strike)
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT SOFT-Locker Room_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT SOFT-Shadow_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Behind Closed Doors_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-In Isolation_B00M_CIDS.wav (Sword in the Ground - Victory)
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Platinum_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Poltergeist Activity_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Snare Fill_B00M_CIDS.wav (Weapon Lost it lands)
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Vortex_B00M_CIDS.wav
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNBoom_BASS DROP-Deep Shock_B00M_CIDS.wav (Kick stun)
-    D:\BoomAudio\Cinematic Impacts - Designed\DSGNImpt_WHOOSH HIT-Sweet Spot_B00M_CIDS.wav (Gunshot Dodge)
-    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBoom_CINEMATIC HIT-BOOM Judgement_B00M_CTDS.wav
-    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBoom_CINEMATIC HIT-BOOM Seize The Day_B00M_CTDS.wav (Bell Impact Foe)
-    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBoom_CINEMATIC HIT-BOOM Last Hour_B00M_CTDS.wav (Bell Lands)
-    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBoom_CINEMATIC HIT-BOOM Train Wreck_B00M_CTDS.wav (New Foe Door)
-    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_AGGRESSIVE-Eat This_B00M_CTDS.wav (Hebron, Look Upon Me)
-    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_AGGRESSIVE-In Your Face_B00M_CTDS.wav (Hebron, Look Upon Me (cont'd))
-    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_AGGRESSIVE-Titans Grip_B00M_CTDS.wav (Hebron, Am I Not Lethal?)
-    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_AGGRESSIVE-Wave Of Destruction_B00M_CTDS.wav (Hebron, Am I Not Lethal?)
-    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_SOFT-Call For War_B00M_CTDS.wav (Fleeing)
-    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_SOFT-Earth Shaker_B00M_CTDS.wav (Enemy Revive)
-    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNBram_SOFT-Mean Machine_B00M_CTDS.wav (Revived Enemy Regard)
-    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-AGGRESSIVE Excalibur_B00M_CTDS.wav
-    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-AGGRESSIVE Get Over Here_B00M_CTDS.wav (Rotary Gears Clank)
-    D:\BoomAudio\Cinematic Metal - Titan - Designed\DSGNMisc_METAL IMPACT-AGGRESSIVE Iron Curtain_B00M_CTDS.wav
-    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM MEDIUM-High Ring_B00M_MUI.wav (Enemy Laser Tracking)
-    D:\CRC_WAV\Modern UI\Deny\UIClick_DENY MEDIUM-Dropping Grains_B00M_MUI.wav (Combat Carousel Collapse)
-    D:\CRC_WAV\Modern UI\Deny\UIClick_DENY MEDIUM-Laser Shield_B00M_MUI.wav (Combat Carousel Invincible)
-    D:\CRC_WAV\Modern UI\Pop Up\UIMvmt_POP UP-Glassy Terminal Screen_B00M_MUI.wav (Sword against metal, rush it)
-    D:\CRC_WAV\Modern UI\Scan\UIData_SCAN MEDIUM-Moving Through Glass_B00M_MUI.wav (Sheer Terror)
-    D:\CRC_WAV\Modern UI\Scan\UIData_SCAN SMALL-Glassy Look_B00M_MUI.wav (Shimmer)
-    D:\CRC_WAV\Modern UI\Select\UIClick_SELECT METAL-Basic Trigger Click_B00M_MUI.wav (Reload/Ammo Fall Impact)
-
-[Hebron (Map Exploration)]
-
-    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM SMALL-Approve Complex Stutter_B00M_MUI.wav (Hand Wrist Map)
-    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM SMALL-Crystal Chimes_B00M_MUI.wav (Loot Box Emptying Menu Call up)
-    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM SMALL-High Glass Tonal_B00M_MUI.wav (A glimpse at, Corner of his eye)
-    D:\CRC_WAV\Modern UI\Pop Up\UIMvmt_POP UP-Glassy Stutter_B00M_MUI.wav (Combat Done Scavenge for Level Up, Acquire)
-    D:\CRC_WAV\Modern UI\Pop Up\UIMvmt_POP UP-Glassy_B00M_MUI.wav
-    D:\CRC_WAV\Modern UI\Pop Up\UIMvmt_POP UP-Subtle Grain_B00M_MUI.wav
-    D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Data Transfer_B00M_MUI.wav (Brief Loading)
-    D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Flutter Fast_B00M_MUI.wav (Experience, Carousel Tuning)
-    D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Flutter Slow_B00M_MUI.wav
-    D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Hightech Grains_B00M_MUI.wav
-    D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Metal Grains_B00M_MUI.wav
-    D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Rapid Beeps_B00M_MUI.wav (Critical)
-    D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Subtle Clicks_B00M_MUI.wav
-    D:\CRC_WAV\Modern UI\Scan\UIData_SCAN LARGE-Glassy Hum_B00M_MUI.wav (North/South Mech Surveyor)
-
-[Mechanized Foe (Combat)]
-
-    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM MEDIUM-High Tech Enter Light_B00M_MUI.wav
-    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM LARGE-Filter Bell Wobble_B00M_MUI.wav (Invincible)
-    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM MEDIUM-Metal Impact Synth_B00M_MUI.wav (Confirmed Lock on)
-    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM MEDIUM-Synthetic Grain Sweep_B00M_MUI.wav (Grunt)
-    D:\CRC_WAV\Modern UI\Deny\UIClick_DENY MEDIUM-Metallic Bass Hit Modulation_B00M_MUI.wav (Taunt)
-    D:\CRC_WAV\Modern UI\Impact Sweetener\UIMisc_IMPACT SWEETENER-Alien Drop_B00M_MUI.wav (Grunt)
-    D:\CRC_WAV\Modern UI\Impact Sweetener\UIMisc_IMPACT SWEETENER-AI Power Down_B00M_MUI.wav
-    D:\CRC_WAV\Modern UI\Impact Sweetener\UIMisc_IMPACT SWEETENER-Tonal Sub_B00M_MUI.wav (Deflect!)
-    D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Zap Gnarl_B00M_MUI.wav (Fast Delegate)
-    D:\CRC_WAV\Modern UI\Scan\UIData_SCAN LARGE-Heavy Tremolo_B00M_MUI.wav (Reverse Energy Impact Damage Resist)
-
 {Environment}
 
     D:\CRC_WAV\Modern UI\Window\UIMvmt_WINDOW SMALL-Power Up High OPEN_B00M_MUI.wav
@@ -348,6 +407,98 @@
     D:\CRC_WAV\Modern UI\Text\UIData_TEXT-Insect Clicks_B00M_MUI.wav
     D:\CRC_WAV\Modern UI\Whoosh\UIMvmt_WHOOSH SMALL-Ringing Matrix_B00M_MUI.wav (Threat)
     D:\CRC_WAV\Modern UI\Whoosh\UIMvmt_WHOOSH SMALL-Space Beeps_B00M_MUI.wav
+    D:\crc_wav\Debris - Construction Kit\DIRTCrsh_Dirt on Dirt Trickle_B00M_DBCK.wav (crawl, stirring up dust)
+    D:\crc_wav\Debris - Construction Kit\DIRTCrsh_Dirt on Dirt Drop_B00M_DBCK.wav
+    D:\crc_wav\Debris - Construction Kit\DIRTCrsh_Dirt on Steel Trickle_B00M_DBCK.wav (Climbing)
+    D:\crc_wav\Debris - Construction Kit\DIRTDust_Dirt Sand Trickle Ticking_B00M_DBCK.wav (Gazing over canyon)
+    D:\crc_wav\Debris - Construction Kit\DIRTDust_Dirt Sand Trickle Soft_B00M_DBCK.wav
+    D:\crc_wav\Debris - Construction Kit\ROCKCrsh_Dirt Fall Long Gravel_B00M_DBCK.wav (Dirt ledge)
+    D:\crc_wav\Debris - Construction Kit\ROCKCrsh_Dirt Fall Long_B00M_DBCK.wav
+    D:\crc_wav\Debris - Construction Kit\ROCKCrsh_Gravel Light on Toolbox_B00M_DBCK.wav (debris on weapons)
+    D:\crc_wav\Debris - Construction Kit\ROCKCrsh_Gravel Light Trickle_B00M_DBCK.wav
+    D:\crc_wav\Debris - Construction Kit\WOODCrsh_Wood Splinter Small Drop_B00M_DBCK.wav (Wood splinter)
+    D:\crc_wav\Geothermal - Surround\GEOFuma_GEOTHERMAL-Deep Chugging Rhythmic_B00M_3DS03_4.0 Hi.wav
+    D:\crc_wav\Geothermal - Surround\GEOGeyser_GEOTHERMAL-Deep Roaring Debris_B00M_3DS03_4.0 Lo.wav (Waterfall)
+    D:\crc_wav\Magic - Arcane Forces - Designed\MAGSpel_TELEPORT-Large Back To The Future_B00M_MAFDS.wav (Teleport)
+    D:\crc_wav\Magic - Arcane Forces - Designed\MAGSpel_TELEPORT-Large Runic Rush_B00M_MAFDS.wav
+    D:\crc_wav\Magic - Arcane Forces - Designed\MAGSpel_TELEPORT-Small Now I'm Here_B00M_MAFDS.wav
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\AMBDsgn_AMBIENCE-Black Mirrors_B00M_MATTER.wav (evidence of danger)
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\AMBDsgn_AMBIENCE-Cyborg Temple_B00M_MATTER.wav (Discovery)
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\AMBDsgn_AMBIENCE-Energy Thruster_B00M_MATTER.wav (Distant Bar Hades)
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\AMBDsgn_AMBIENCE-Sunken Machinery_B00M_MATTER.wav (Underwater Gears Machinery)
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\DSGNMisc_TEXTURE-Artificial Rocks_B00M_MATTER.wav (Gears)
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\DSGNMisc_TEXTURE-Plastic Beast_B00M_MATTER.wav (Climbing)
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\SCIEnrg_ABILITY CHARGE-Noisy Electric Storm_B00M_MATTER.wav (Phaser Energy)
+    D:\crc_wav\Room Tones Europe - Surround\AMBUndr_Wine Hall Basement Shell Water Dripping Windy_B00M_3DS02_4.0 Lo.wav (Cave)
+    D:\crc_wav\Room Tones Europe - Surround\AMBUndr_Wine Hall Basement Shell Water Dripping Windy_B00M_3DS02_4.0 Hi.wav
+    D:\crc_wav\Seasons Of Earth - Summer - Surround\AMBBird_DESERT-Bird Insect Breeze_B00M_3DS09_4.0 Hi.wav (Beach)
+    D:\crc_wav\Seasons Of Earth - Summer - Surround\AMBBird_DESERT-Bird Insect Breeze_B00M_3DS09_4.0 Lo.wav
+    D:\crc_wav\Seasons Of Earth - Summer - Surround\AMBBird_DESERT-Calm Dawn Birds Insects_B00M_3DS09_4.0 Hi.wav (Woods)
+    D:\crc_wav\Seasons Of Earth - Summer - Surround\AMBBird_DESERT-Calm Dawn Birds Insects_B00M_3DS09_4.0 Lo.wav
+    D:\crc_wav\Seasons Of Earth - Summer - Surround\AMBBird_DESERT-Calm Dawn Birds_B00M_3DS09_4.0 Hi.wav (woods (Rainfall))
+    D:\crc_wav\Seasons Of Earth - Summer - Surround\AMBBird_DESERT-Calm Dawn Birds_B00M_3DS09_4.0 Lo.wav
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBBird_DESERT-Calm Morning Birds Breeze Consistent_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBBird_DESERT-Calm Morning Birds Breeze Consistent_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBBird_DESERT-Morning Birds Breeze_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBBird_DESERT-Morning Birds Breeze_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBBird_DESERT-Morning Birds Sparse Breeze V1_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBBird_DESERT-Morning Birds Sparse Breeze V1_B00M_3DS09_4.0 Lo.wav
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBBird_MEADOW-Hilltop Meadow Birds Breeze_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBBird_MEADOW-Hilltop Meadow Birds Breeze_B00M_3DS09_4.0 Lo.wav
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBBird_PRAIRIE-Vibrant Birds Deep Wind_B00M_3DS09_4.0 Hi.wav (Grasslands)
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBBird_PRAIRIE-Vibrant Birds Deep Wind_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBBird_PRAIRIE-Vibrant Birds Varied Wind_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBBird_PRAIRIE-Vibrant Birds Varied Wind_B00M_3DS09_4.0 Lo.wav
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Barrel Cactus Wind_B00M_3DS09_4.0 Hi.wav (Desert)
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Barrel Cactus Wind_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Cactus Wind Hiss_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Cactus Wind Hiss_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Cactus Wind Squeak V1_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Cactus Wind Squeak V1_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Cactus Wind Squeak V2_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Cactus Wind Squeak V2_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Cactus Wind Varied V1_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Cactus Wind Varied V1_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Cactus Wind Varied V2_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Cactus Wind Varied V2_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Calm Afternoon_B00M_3DS09_4.0 Hi.wav
+    D:\crc_wav\Seasons Of Earth - Summer - Surround\AMBDsrt_DESERT-Calm Afternoon_B00M_3DS09_4.0 Lo.wav (Desert (Rain))
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Cholla Cactus Wind V2_B00M_3DS09_4.0 Hi.wav (Desert (Wind))
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Cholla Cactus Wind V2_B00M_3DS09_4.0 Lo.wav
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Saguaro Wind Deep_B00M_3DS09_4.0 Hi.wav (Desert (Wid Gust))
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBDsrt_DESERT-Saguaro Wind Deep_B00M_3DS09_4.0 Lo.wav
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBForst_FOREST-Night Pine Wind Crickets_B00M_3DS09_4.0 Hi.wav (Forest (Night))
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBForst_FOREST-Night Pine Wind Crickets_B00M_3DS09_4.0 Lo.wav
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Windy Waves_B00M_3DS09_4.0 Lo.wav (Lake & River, Torrent)
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Dawn Birds Busy_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Dawn Birds Busy_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Dawn Birds Spacious_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Dawn Birds Spacious_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Dawn Waterfowl_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Dawn Waterfowl_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Grass Wind Strong_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Grass Wind Strong_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Grass Wind Varied_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Grass Wind Varied_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Lakeside Forest Breeze V1_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Lakeside Forest Breeze V1_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Lakeside Forest Breeze V2_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Lakeside Forest Breeze V2_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Lap Breeze_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Lap Breeze_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Morning Birds_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Morning Birds_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Pre Dawn_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Pre Dawn_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/AMBLake_LAKE-Windy Waves_B00M_3DS09_4.0 Hi.wav
+    crc_wav/Seasons Of Earth - Summer - Surround/WATRFlow_RIVER-River Nighthawk Breeze V2_B00M_3DS09_4.0 Lo.wav (Streams) 
+    crc_wav/Seasons Of Earth - Summer - Surround/WATRFlow_RIVER-River Dawn Chorus V1_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/WATRFlow_RIVER-River Dawn Chorus V1_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/WATRFlow_RIVER-River Dawn Chorus V2_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/WATRFlow_RIVER-River Dawn Chorus V2_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/WATRFlow_RIVER-River Nighthawk Breeze V1_B00M_3DS09_4.0 Hi.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/WATRFlow_RIVER-River Nighthawk Breeze V1_B00M_3DS09_4.0 Lo.wav 
+    crc_wav/Seasons Of Earth - Summer - Surround/WATRFlow_RIVER-River Nighthawk Breeze V2_B00M_3DS09_4.0 Hi.wav
 
 [Dogs]
 
@@ -438,13 +589,11 @@
     D:\CRC_WAV\Modern UI\Progress\UIData_PROGRESS-Subtle Steady Clicks_B00M_MUI.wav (BPM Up/Down Tick)
     D:\CRC_WAV\Modern UI\Select\UIClick_SELECT DIGITAL-Subtle Noise_B00M_MUI.wav (Coin)
     D:\CRC_WAV\Modern UI\Select\UIClick_SELECT GLASS-Impact Click_B00M_MUI.wav
-
-[Combat Carousel]
-
-    D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM LARGE-High Tech Enter Bottom_B00M_MUI.wav (Sweep In & Out)
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\WHSH_WHOOSH MEDIUM-Diffused Air_B00M_MATTER.wav (Deactivate)
 
 [Rotary Gun]
 
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\DSGNSynth_TEXTURE-Metallic Presence_B00M_MATTER.wav
     D:\CRC_WAV\Modern UI\Whoosh\UIMvmt_WHOOSH SMALL-Flappy Bleeps_B00M_MUI.wav
     D:\CRC_WAV\Modern UI\Warning\UIAlert_WARNING-Digital Squish_B00M_MUI.wav
     D:\CRC_WAV\Modern UI\Warning\UIAlert_WARNING-Annoying Ringing_B00M_MUI.wav
@@ -469,6 +618,10 @@
     D:\CRC_WAV\Modern UI\Impact Sweetener\UIMisc_IMPACT SWEETENER-Modulated Bass Drop_B00M_MUI.wav (Battery Cell Power Down Off)
     D:\CRC_WAV\Modern UI\Whoosh\UIMvmt_WHOOSH SMALL-Fast Soft Motion_B00M_MUI.wav (Projectile)
     D:\CRC_WAV\Modern UI\Whoosh\UIMvmt_WHOOSH SMALL-Noise Fast_B00M_MUI.wav
+    D:\crc_wav\Debris - Construction Kit\DIRTCrsh_Dirt on Metal Sheet Trickle_B00M_DBCK.wav (Debris on UI metal)
+    D:\crc_wav\Debris - Construction Kit\DIRTCrsh_Dirt on Metal Plate Trickle_B00M_DBCK.wav
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\WHSH_WHOOSH SMALL-Flicker Zip_B00M_MATTER.wav
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\WHSH_WHOOSH SMALL-Molecule Flurry_B00M_MATTER.wav
     
 
 [Bombarment]
@@ -488,10 +641,6 @@
 
     D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM SMALL-Access Reversed_B00M_MUI.wav
 
-[Ultra Wolf (Combat)]
-
-    D:\CRC_WAV\Modern UI\Impact Sweetener\UIMisc_IMPACT SWEETENER-Alien Drop_B00M_MUI.wav (Lingering Retreat in Defeat)
-
 [Underground Bunker]
 
     D:\CRC_WAV\Modern UI\Scan\UIData_SCAN LARGE-Deep Exploration_B00M_MUI.wav (Ambiance)
@@ -502,3 +651,5 @@ Bookmark
 
     (Cinematic Impacts - Construction Kit - File 259)
     (Cinematic Metal - Titan - Designed - File 43)
+
+    BIOMES: Beach >> Woods >> Forest >> Grasslands >> Desert >> Taiga >> Tundra >>  
