@@ -46,3 +46,6 @@ Rig w/ the aid of custom "LookAt" blueprints. The Control Rig Dependency Graph (
 
 - [ ] Engine/DerivedDataCache, Engine/Saved, Engine/Intermediate, and .vs folders can be safe deleted from Unreal Engine projects to save space.
 
+- [ ] The walls of the coliseum form a squircle, carved into an expansive post volcanic mountain range. Volcanic activity remains in certain areas of the mountain range.
+
+
