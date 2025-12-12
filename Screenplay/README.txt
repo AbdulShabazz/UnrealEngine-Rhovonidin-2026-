@@ -9,14 +9,19 @@ FADE IN:
 A strong BARITONE voice breaks the silence!
 
 VOICE
-(Accusing) You, here, Hebron are hereby sentenced to death. And it shall be our entertainment!!
+(Accusing) Charged with acts of inhumanity, Lance Rhovonidin, are hereby sentenced to perish!!
 
 FADE UP:
 
-INT./EXT. THE COLISEUM - SEWERS - DAY
+EXT. THE BEACH - THE ISLAND - DAY
 
-A worn and ragged man, Hebron, stands bound IN chains facing the entrance to THE COLISEUM.
+A worn and ragged man, lance, stands bound IN chains on the beach, facing the lush treeline. which leads to the jungle.
 
-Thousands of wild and screaming fans await the next entrant!
+Thousands of wild and screaming raiders interact further down the shores!
 
-A boot FROM the shadows suddenly kicks Hebron forward into the arena. He collapses to the ground!
+A female raider spots Lance! Thery surround him!!
+
+FEMALE RAIDER
+Hey you! Give us your loot!!
+
+A boot FROM the shadows suddenly kicks Lance forward! He collapses to the ground!
