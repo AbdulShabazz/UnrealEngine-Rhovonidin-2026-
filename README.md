@@ -3,7 +3,7 @@
 
 Platform: Windows 11 x86_i64
 
-Recommended Architecture: 
+Recommended Hardware: 
 2 TB SSD; 256 GB RAM; NVIDIA RTX 5090 24 GDDR6
 
 Charged with acts of inhumanity, the savage warrior, Lance Rhovonidin, is cast away to a warrior-island to perish.
