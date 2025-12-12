@@ -48,4 +48,12 @@ Rig w/ the aid of custom "LookAt" blueprints. The Control Rig Dependency Graph (
 
 - [ ] The walls of the coliseum form a squircle, carved into an expansive post volcanic mountain range. Volcanic activity remains in certain areas of the mountain range.
 
+- [ ] NPC gear and loadouts can be preconfigured in Blueprints, to perhaps update dynamically based on the environment 
+
+- [ ] Sequencer can be used as a FSM to progressive object states (impact >> burning >> destruction!) and or  the environment, the Sun & Sky during particular season or time of day, or perhaps update NPC behavior and attributes based on HP.
+
+- [ ] Default Biome Scale: 100x100
+
+- [ ] Use screen titles to denote Biome boundaries 
+
 
