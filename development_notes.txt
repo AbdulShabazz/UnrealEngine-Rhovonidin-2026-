@@ -66,6 +66,8 @@ Rig w/ the aid of custom "LookAt" blueprints. The Control Rig Dependency Graph (
 
 - [ ] Support navigation via air balloon 
 
+- [ ] Proposed Biome “transition tiles” (forest...grassland; taiga...tundra; grassland...desert; forest...swamp) and watercourse routing.
+
 
 
 
