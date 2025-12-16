@@ -56,4 +56,17 @@ Rig w/ the aid of custom "LookAt" blueprints. The Control Rig Dependency Graph (
 
 - [ ] Use screen titles to denote Biome boundaries 
 
+- [ ] Offer up battle sequences which offer kinetic damage and cascading events which surprise and immolate.
+
+- [ ] Offer symbols-only, buttons-only, and symbols+buttons combination-cell configurations.
+
+- [ ] Support the ability to lock-on NPCs
+
+- [ ] Allow user-defined draw distance/culling in UI settings; path tracing; global illumination 
+
+- [ ] Support navigation via air balloon 
+
+
+
+
 
