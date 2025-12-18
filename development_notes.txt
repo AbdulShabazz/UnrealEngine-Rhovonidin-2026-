@@ -70,5 +70,6 @@ Rig w/ the aid of custom "LookAt" blueprints. The Control Rig Dependency Graph (
 
 - [ ] Support swimming modes, climbing and full open world exploration.
 
-
+- [ ] Some players rely on minimaps; others disable them. If you ship one, make it optional and adjustable:
+	•	size, opacity, rotation mode, zoom, icon filters, color-blind safe palette, font scaling.
 
