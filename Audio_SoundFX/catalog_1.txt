@@ -56,6 +56,7 @@
     D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_LEAD IN-Modulated Phasing_B00M_CICK.wav
 
 [Victory]
+
     D:\CRC_WAV\Medieval Life - Construction Kit\BELLLrg_Bell Ringing Big_B00M_MLCK.wav (Round Over/Next)
 
 [Health Regen]
@@ -83,6 +84,14 @@
 
     D:\BoomAudio\Cinematic Impacts - Construction Kit\DSGNMisc_SUSTAIN-Rubberband On Cardboard Box Snap_B00M_CICK.wav ( End of Sequence - Loss (pre cinematic))
     D:\CRC_WAV\Modern UI\Confirm\UIClick_CONFIRM LARGE-High Tech Enter Bottom_B00M_MUI.wav (Sweep In & Out)
+    "D:\crc_wav\Creature Foley - Construction Kit\SWIPE\SWSH_SWIPE ATTACK-Single Bamboo Stick Whoosh_B00M_CFCK.wav" (lamp action)
+    "D:\crc_wav\Violent Combat - Construction Kit\FGHTClth_THROW CLOTH-Nylon Skirt_B00M_VCCK.wav"
+    "D:\crc_wav\Violent Combat - Construction Kit\AIRMisc_AIR WHOOSH-Blow Through Teeth_B00M_VCCK.wav"
+    "D:\crc_wav\Violent Combat - Construction Kit\CLOTHMvmt_MOVEMENT SLOW TEXTILE-Denim Shorts_B00M_VCCK.wav"
+    "D:\crc_wav\Violent Combat - Construction Kit\DSGNImpt_IMPACT SWEETENER-Punch Bag Bat Hit_B00M_VCCK.wav"
+    "D:\crc_wav\Violent Combat - Construction Kit\DSGNImpt_IMPACT SWEETENER-Slap Crush_B00M_VCCK.wav"
+    "D:\crc_wav\Violent Combat - Construction Kit\DSGNMisc_TEXTURE-Fast Cloth Bumps_B00M_VCCK.wav"
+    "D:\crc_wav\Violent Combat - Construction Kit\AIRMisc_AIR WHOOSH-Low Wind Rumble_B00M_VCCK.wav" (modulated)
 
 [Underwater]
 
@@ -154,6 +163,7 @@
     D:\crc_wav\Magic - Arcane Forces - Designed\MAGElem_PROJECTILE-Fire Impact Dragons Fury_B00M_MAFDS.wav (Flaming projectiles)
     D:\crc_wav\Magic - Arcane Forces - Designed\MAGElem_PROJECTILE-Fire Impact Fire Without Smoke_B00M_MAFDS.wav
     D:\crc_wav\Magic - Arcane Forces - Designed\WHSH_DIVINE-Large Angels Share_B00M_MAFDS.wav (Power UP!)
+    crc_wav/Violent Combat - Designed/FGHTImpt_KICK MARTIAL ARTS STANDARD-Foot Whips_B00M_VCDS.wav (Finishing Roundhouse)
 
 [Hebron (Map Exploration)]
 
@@ -256,11 +266,13 @@
     D:\crc_wav\MATTER - SCI-FI ELEMENTS\EXPLDsgn_EXPLOSION LARGE-Ear Deafen_B00M_MATTER.wav (Impact)
     D:\crc_wav\MATTER - SCI-FI ELEMENTS\EXPLDsgn_EXPLOSION LARGE-Fusion Detonation_B00M_MATTER.wav
     D:\crc_wav\MATTER - SCI-FI ELEMENTS\SCIEnrg_ABILITY CHARGE-Dark Liquid_B00M_MATTER.wav (Recharge HP)
-    D:\crc_wav\MATTER – SCI-FI ELEMENTS\SCIEnrg_ABILITY CHARGE-Whooshy Fast Jump_B00M_MATTER.wav
-    D:\crc_wav\MATTER – SCI-FI ELEMENTS\SCIEnrg_ABILITY RELEASE-Soft Flow_B00M_MATTER.wav (Dejected)
-    D:\crc_wav\MATTER – SCI-FI ELEMENTS\SCIEnrg_IMPACT LARGE-Charged Splash_B00M_MATTER.wav (Eye lightning blast)
-    D:\crc_wav\MATTER – SCI-FI ELEMENTS\SCIImpt_EXPLOSION LARGE-Hollow Finisher_B00M_MATTER.wav (Deflect)
-    D:\crc_wav\MATTER – SCI-FI ELEMENTS\SCIImpt_IMPACT MEDIUM-Spectral Hit_B00M_MATTER.wav (Agitated!)
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\SCIEnrg_ABILITY CHARGE-Whooshy Fast Jump_B00M_MATTER.wav
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\SCIEnrg_ABILITY RELEASE-Soft Flow_B00M_MATTER.wav (Dejected)
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\SCIEnrg_IMPACT LARGE-Charged Splash_B00M_MATTER.wav (Eye lightning blast)
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\SCIImpt_EXPLOSION LARGE-Hollow Finisher_B00M_MATTER.wav (Deflect)
+    D:\crc_wav\MATTER - SCI-FI ELEMENTS\SCIImpt_IMPACT MEDIUM-Spectral Hit_B00M_MATTER.wav (Agitated!)
+    crc_wav/Creature Foley - Designed/WINGCrea_WINGS-Feather Large 01_B00M_CFDS.wav
+    crc_wav/Cinematic Strikes - Designed/DSGNStngr_HIT-Clean Loose Foot_B00M_CSDS.wav (thwack)
 
 [Mechanized Foe (Combat)]
 
@@ -499,6 +511,7 @@
     crc_wav/Seasons Of Earth - Summer - Surround/WATRFlow_RIVER-River Nighthawk Breeze V1_B00M_3DS09_4.0 Hi.wav 
     crc_wav/Seasons Of Earth - Summer - Surround/WATRFlow_RIVER-River Nighthawk Breeze V1_B00M_3DS09_4.0 Lo.wav 
     crc_wav/Seasons Of Earth - Summer - Surround/WATRFlow_RIVER-River Nighthawk Breeze V2_B00M_3DS09_4.0 Hi.wav
+    "D:\crc_wav\Violent Combat - Construction Kit\DSGNMisc_TEXTURE-Thick Liquid_B00M_VCCK.wav" (Under Water)
 
 [Dogs]
 
