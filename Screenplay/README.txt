@@ -40,7 +40,7 @@ MYSTERIOUS ISLANDER
 Against those raiders, that was a masterful job! What is your name?
 
 LANCE
-I am intergalactic federation general, Lance Rhovonidin. I was sent here to perish.
+I am intergalactic general, Lance Rhovonidin. I was sent here to perish.
 
 Mysterious Islander helps him address his wounds.
 
