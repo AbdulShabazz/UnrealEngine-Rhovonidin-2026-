@@ -1,0 +1,57 @@
+SOFTWARE SUITES
+
+Unreal Engine /Plugins: NeoStack AI
+Blender /Addons: Auto Rig Pro (ARP), Face it!, Node Wrangler 
+Pinta
+Paint
+VSCode
+Git
+Python
+FFMPEG
+NodeJS
+
+ONLINE TOOLS
+
+Suno AI
+Meshy.AI
+Nano Banana Pro
+Veo 3 / Seedance AI
+OpenAI / GPT Image 2
+
+PROJECT PLAN
+
+1. Settings Overlay 
+2. Quick Menu Overlay 
+3. Character Textures, IK/FK Control Rigs
+4. Animations / Retargeting / Niagara SFX
+5. Choosers, AI
+6. Suno AI (4000 music tracks), Plot, Story, SoundFX, Captions 
+7. Procedural Maps
+8. Bugfix
+
+COMMENTS
+
+
+
+NOTES
+
+Combat loop
+[ Attack Window ms ] >> [ Cooldown ms ] ) | [ Take Damage ]
+
+To build (NPC) animation libraries, use Sequencer + Control Rig/Skeletal Mesh + blueprints to choreograph  and distill animations. 
+
+Investigate one-off procedural PCG levels that are minimappable. Support savepoints (and control resets!); and support teleportation hotspots the player can earn. Perhaps use hash tables to index the PCG tile seeds, or regenerate the tiles in a deterministic manner (e.g., for each new radial tile set) Or perhaps: Assign stable PCG tile seeds -- radially, in a clockwise manner, starting from the North face, using biome/water lock rules.
+
+Search for animNotifies
+Try to catalog additional animations
+Formalize boss battles for each biome
+Prepare for soundtrack development 
+
+Bar Hades grows 2,3,6 heads, based upon threat level.
+Ultrawolf can slap Lance across the map, causing a one-hit kill.
+
+UltraWolf specializes in ground & pound combat, wall tosses, throws, kicks, blocks, and shoves, and every fourth spawn is invincible -- a theatre shot-caller and master strategist. He should be avoided. He can interrupt Lance's bow when close enough.
+
+The Bard NPC is an aerial sniper and long distance threat  He has rocket boots and has to land to reload. He hurls smoke, he stirs fog, wind, and dust. Rolling incendiary devices are a threat.
+
+Queue atmospheric music near cooldown/level-up areas.
