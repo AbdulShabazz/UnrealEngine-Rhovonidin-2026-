@@ -23,6 +23,7 @@ Meshy.AI
 Nano Banana Pro
 Veo 3 / Seedance AI
 OpenAI / GPT Image 2
+BOOM Audio Library
 
 PROJECT PLAN
 
