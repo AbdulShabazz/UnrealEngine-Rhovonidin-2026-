@@ -12,6 +12,7 @@ Paint
 VSCode
 Git
 Python
+Houdini
 FFMPEG
 NodeJS
 
