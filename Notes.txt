@@ -16,6 +16,7 @@ Python
 Houdini
 FFMPEG
 NodeJS
+JangaFX (Liquigen, Embergen, Geogen, illugen)
 
 ONLINE TOOLS
 
