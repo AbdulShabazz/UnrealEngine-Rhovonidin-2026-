@@ -1,6 +1,7 @@
 SOFTWARE SUITES
 
 Unreal Engine /Plugins: NeoStack AI
+Ableton Live
 Blender /Addons: Auto Rig Pro (ARP), Face it!, Node Wrangler 
 Pinta
 Gimp
