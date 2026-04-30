@@ -3,6 +3,11 @@ SOFTWARE SUITES
 Unreal Engine /Plugins: NeoStack AI
 Blender /Addons: Auto Rig Pro (ARP), Face it!, Node Wrangler 
 Pinta
+Gimp
+VLC Media Player
+Orchestral Tools
+Kontakt
+Ollama 
 Paint
 VSCode
 Git
